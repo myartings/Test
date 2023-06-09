@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_2c5aace59efc9ccd0ad5b6c1598e2ffd"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_2c5aace59efc9ccd0ad5b6c1598e2ffd" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_Plant_Grass001_1x1x1_LOD0"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "2c5aace5-9efc-9ccd-0ad5-b6c1598e2ffd"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_2c5aace59efc9ccd0ad5b6c1598e2ffdDeps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

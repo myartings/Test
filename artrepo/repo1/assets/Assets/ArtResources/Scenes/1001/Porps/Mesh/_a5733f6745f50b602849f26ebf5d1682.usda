@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_a5733f6745f50b602849f26ebf5d1682"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_a5733f6745f50b602849f26ebf5d1682" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_1001_AdavertisingBox_Big02"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "a5733f67-45f5-0b60-2849-f26ebf5d1682"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_a5733f6745f50b602849f26ebf5d1682Deps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

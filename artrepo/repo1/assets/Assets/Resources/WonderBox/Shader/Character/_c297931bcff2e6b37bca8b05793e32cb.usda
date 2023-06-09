@@ -1,0 +1,23 @@
+#usda 1.0
+(
+    defaultPrim = "_c297931bcff2e6b37bca8b05793e32cb"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_c297931bcff2e6b37bca8b05793e32cb" (
+    prepend apiSchemas = ["TextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "AmbientWind_Noise"
+    uniform token assetBase:assetType = "texture"
+    uniform string assetId:guid = "c297931b-cff2-e6b3-7bca-8b05793e32cb"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 0
+    uniform token baseTextureAsset:wrapMode = "kRepeat"
+    asset inputs:textureFilepath = @./textures/AmbientWind_Noise.tga@
+}
+

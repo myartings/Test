@@ -1,0 +1,23 @@
+#usda 1.0
+(
+    defaultPrim = "_ae5b2330ee9f22439bee40c91e020631"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_ae5b2330ee9f22439bee40c91e020631" (
+    prepend apiSchemas = ["TextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "_11"
+    uniform token assetBase:assetType = "texture"
+    uniform string assetId:guid = "ae5b2330-ee9f-2243-9bee-40c91e020631"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 1
+    uniform token baseTextureAsset:wrapMode = "kClamp"
+    asset inputs:textureFilepath = @./textures/111.png@
+}
+

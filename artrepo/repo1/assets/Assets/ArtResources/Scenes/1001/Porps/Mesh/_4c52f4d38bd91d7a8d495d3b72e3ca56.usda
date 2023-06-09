@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_4c52f4d38bd91d7a8d495d3b72e3ca56"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_4c52f4d38bd91d7a8d495d3b72e3ca56" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "G_BananaTree_Plant_01_Sub2_3"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "4c52f4d3-8bd9-1d7a-8d49-5d3b72e3ca56"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_4c52f4d38bd91d7a8d495d3b72e3ca56Deps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

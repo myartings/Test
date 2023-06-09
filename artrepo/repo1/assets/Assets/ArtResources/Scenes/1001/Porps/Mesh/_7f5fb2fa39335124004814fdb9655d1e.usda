@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_7f5fb2fa39335124004814fdb9655d1e"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_7f5fb2fa39335124004814fdb9655d1e" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_1001_StreetLamp_Tall_02_Sub0_3"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "7f5fb2fa-3933-5124-0048-14fdb9655d1e"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_7f5fb2fa39335124004814fdb9655d1eDeps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

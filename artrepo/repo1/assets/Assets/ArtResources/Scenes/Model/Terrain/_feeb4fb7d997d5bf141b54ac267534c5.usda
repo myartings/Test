@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_feeb4fb7d997d5bf141b54ac267534c5"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_feeb4fb7d997d5bf141b54ac267534c5" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_Terrain_Bowl003_2x2x2_LOD0_Sub2_3"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "feeb4fb7-d997-d5bf-141b-54ac267534c5"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_feeb4fb7d997d5bf141b54ac267534c5Deps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

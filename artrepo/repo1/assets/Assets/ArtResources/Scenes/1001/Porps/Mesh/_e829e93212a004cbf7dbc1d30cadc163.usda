@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_e829e93212a004cbf7dbc1d30cadc163"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_e829e93212a004cbf7dbc1d30cadc163" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_1001_Flowerpot_Yellow_01"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "e829e932-12a0-04cb-f7db-c1d30cadc163"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_e829e93212a004cbf7dbc1d30cadc163Deps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

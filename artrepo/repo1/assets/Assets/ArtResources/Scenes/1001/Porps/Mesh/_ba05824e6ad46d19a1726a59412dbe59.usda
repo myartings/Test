@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_ba05824e6ad46d19a1726a59412dbe59"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_ba05824e6ad46d19a1726a59412dbe59" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_1001_SurfBoard_White_01"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "ba05824e-6ad4-6d19-a172-6a59412dbe59"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_ba05824e6ad46d19a1726a59412dbe59Deps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

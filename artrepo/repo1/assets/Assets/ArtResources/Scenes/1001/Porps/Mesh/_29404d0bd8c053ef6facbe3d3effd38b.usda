@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_29404d0bd8c053ef6facbe3d3effd38b"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_29404d0bd8c053ef6facbe3d3effd38b" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_1001_LifeBuoy_Red_01"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "29404d0b-d8c0-53ef-6fac-be3d3effd38b"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_29404d0bd8c053ef6facbe3d3effd38bDeps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

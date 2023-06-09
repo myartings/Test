@@ -1,0 +1,23 @@
+#usda 1.0
+(
+    defaultPrim = "_d64c7c94d738bf73781f1af9cb50de63"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_d64c7c94d738bf73781f1af9cb50de63" (
+    prepend apiSchemas = ["TextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "SP_T_Grass1_01_D"
+    uniform token assetBase:assetType = "texture"
+    uniform string assetId:guid = "d64c7c94-d738-bf73-781f-1af9cb50de63"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 1
+    uniform token baseTextureAsset:wrapMode = "kRepeat"
+    asset inputs:textureFilepath = @./textures/SP_T_Grass1_01_D.png@
+}
+

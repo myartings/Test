@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_5e982636fbdd4c64026988b2f1023460"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_5e982636fbdd4c64026988b2f1023460" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_Plant_CoconutTree001_1x1x7_LOD0_Sub0_2"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "5e982636-fbdd-4c64-0269-88b2f1023460"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_5e982636fbdd4c64026988b2f1023460Deps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

@@ -1,0 +1,23 @@
+#usda 1.0
+(
+    defaultPrim = "_e67ba67b71a6b273aa10aab544c54b1f"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_e67ba67b71a6b273aa10aab544c54b1f" (
+    prepend apiSchemas = ["TextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_T_1001_Automat_Blue_01_D"
+    uniform token assetBase:assetType = "texture"
+    uniform string assetId:guid = "e67ba67b-71a6-b273-aa10-aab544c54b1f"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 1
+    uniform token baseTextureAsset:wrapMode = "kRepeat"
+    asset inputs:textureFilepath = @./textures/S_T_1001_Automat_Blue_01_D.png@
+}
+

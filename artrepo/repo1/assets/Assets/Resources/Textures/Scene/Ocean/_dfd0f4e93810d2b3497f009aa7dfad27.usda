@@ -1,0 +1,23 @@
+#usda 1.0
+(
+    defaultPrim = "_dfd0f4e93810d2b3497f009aa7dfad27"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_dfd0f4e93810d2b3497f009aa7dfad27" (
+    prepend apiSchemas = ["TextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "SmoothWaves"
+    uniform token assetBase:assetType = "texture"
+    uniform string assetId:guid = "dfd0f4e9-3810-d2b3-497f-009aa7dfad27"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 0
+    uniform token baseTextureAsset:wrapMode = "kRepeat"
+    asset inputs:textureFilepath = @./textures/SmoothWaves.png@
+}
+

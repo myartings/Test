@@ -1,0 +1,23 @@
+#usda 1.0
+(
+    defaultPrim = "_21c0ffef2d0a8f0349298884e0a2d394"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_21c0ffef2d0a8f0349298884e0a2d394" (
+    prepend apiSchemas = ["TextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_T_1001_AdavertisingBox_painting02_D"
+    uniform token assetBase:assetType = "texture"
+    uniform string assetId:guid = "21c0ffef-2d0a-8f03-4929-8884e0a2d394"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 1
+    uniform token baseTextureAsset:wrapMode = "kRepeat"
+    asset inputs:textureFilepath = @./textures/S_T_1001_AdavertisingBox_painting02_D.png@
+}
+

@@ -1,0 +1,23 @@
+#usda 1.0
+(
+    defaultPrim = "_6fec761b21434d73d8f2559903adcde7"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_6fec761b21434d73d8f2559903adcde7" (
+    prepend apiSchemas = ["TextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_T_Building_Window003_T1_01_NMS"
+    uniform token assetBase:assetType = "texture"
+    uniform string assetId:guid = "6fec761b-2143-4d73-d8f2-559903adcde7"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 0
+    uniform token baseTextureAsset:wrapMode = "kRepeat"
+    asset inputs:textureFilepath = @./textures/S_T_Building_Window003_T1_01_NMS.png@
+}
+

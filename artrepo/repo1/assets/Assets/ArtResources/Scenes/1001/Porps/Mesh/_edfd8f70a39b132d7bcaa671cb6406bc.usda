@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_edfd8f70a39b132d7bcaa671cb6406bc"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_edfd8f70a39b132d7bcaa671cb6406bc" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "G_Bench_Wood_06_LOD001_Sub0_2"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "edfd8f70-a39b-132d-7bca-a671cb6406bc"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_edfd8f70a39b132d7bcaa671cb6406bcDeps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

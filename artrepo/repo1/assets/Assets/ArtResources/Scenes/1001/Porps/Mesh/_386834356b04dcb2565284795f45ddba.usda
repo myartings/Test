@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_386834356b04dcb2565284795f45ddba"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_386834356b04dcb2565284795f45ddba" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_1001_Billboard_Black1_8_Sub1_2"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "38683435-6b04-dcb2-5652-84795f45ddba"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_386834356b04dcb2565284795f45ddbaDeps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

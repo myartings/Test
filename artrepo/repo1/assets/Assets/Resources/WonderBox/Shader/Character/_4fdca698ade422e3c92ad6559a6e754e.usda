@@ -1,0 +1,23 @@
+#usda 1.0
+(
+    defaultPrim = "_4fdca698ade422e3c92ad6559a6e754e"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_4fdca698ade422e3c92ad6559a6e754e" (
+    prepend apiSchemas = ["TextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "Wind_Low_Noise"
+    uniform token assetBase:assetType = "texture"
+    uniform string assetId:guid = "4fdca698-ade4-22e3-c92a-d6559a6e754e"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 0
+    uniform token baseTextureAsset:wrapMode = "kRepeat"
+    asset inputs:textureFilepath = @./textures/Wind_Low_Noise.tga@
+}
+

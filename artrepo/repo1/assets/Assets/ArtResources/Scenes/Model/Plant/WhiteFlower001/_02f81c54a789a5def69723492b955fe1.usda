@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_02f81c54a789a5def69723492b955fe1"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_02f81c54a789a5def69723492b955fe1" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_Plant_WhiteFlower_1x1x1_LOD0"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "02f81c54-a789-a5de-f697-23492b955fe1"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_02f81c54a789a5def69723492b955fe1Deps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_57b5246b0e1ec7d2fb483da3e60fb0d4"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_57b5246b0e1ec7d2fb483da3e60fb0d4" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_Ornament_Door001_2x1x2_LOD0_Sub1_3"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "57b5246b-0e1e-c7d2-fb48-3da3e60fb0d4"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_57b5246b0e1ec7d2fb483da3e60fb0d4Deps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

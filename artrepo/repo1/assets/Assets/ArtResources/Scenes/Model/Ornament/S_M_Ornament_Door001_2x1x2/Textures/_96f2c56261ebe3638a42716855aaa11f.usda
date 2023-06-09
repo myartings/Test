@@ -1,0 +1,23 @@
+#usda 1.0
+(
+    defaultPrim = "_96f2c56261ebe3638a42716855aaa11f"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_96f2c56261ebe3638a42716855aaa11f" (
+    prepend apiSchemas = ["TextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_T_Ornament_Door001_T1_NMS"
+    uniform token assetBase:assetType = "texture"
+    uniform string assetId:guid = "96f2c562-61eb-e363-8a42-716855aaa11f"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 0
+    uniform token baseTextureAsset:wrapMode = "kRepeat"
+    asset inputs:textureFilepath = @./textures/S_T_Ornament_Door001_T1_NMS.png@
+}
+

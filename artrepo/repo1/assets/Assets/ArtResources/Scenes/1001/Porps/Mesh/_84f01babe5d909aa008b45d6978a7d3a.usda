@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_84f01babe5d909aa008b45d6978a7d3a"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_84f01babe5d909aa008b45d6978a7d3a" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_1001_Pelvis_Lifebuoy_01"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "84f01bab-e5d9-09aa-008b-45d6978a7d3a"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_84f01babe5d909aa008b45d6978a7d3aDeps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

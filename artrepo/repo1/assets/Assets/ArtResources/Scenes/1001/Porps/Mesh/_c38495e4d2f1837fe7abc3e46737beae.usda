@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_c38495e4d2f1837fe7abc3e46737beae"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_c38495e4d2f1837fe7abc3e46737beae" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_1001_Car_Orange_01_Sub2_8"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "c38495e4-d2f1-837f-e7ab-c3e46737beae"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_c38495e4d2f1837fe7abc3e46737beaeDeps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

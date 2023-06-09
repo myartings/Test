@@ -1,0 +1,23 @@
+#usda 1.0
+(
+    defaultPrim = "_ed2a5d955e55dcb3cbdd1dda23d2437b"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_ed2a5d955e55dcb3cbdd1dda23d2437b" (
+    prepend apiSchemas = ["TextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_T_Plant_WhiteFlower001_T1_01_D"
+    uniform token assetBase:assetType = "texture"
+    uniform string assetId:guid = "ed2a5d95-5e55-dcb3-cbdd-1dda23d2437b"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 1
+    uniform token baseTextureAsset:wrapMode = "kRepeat"
+    asset inputs:textureFilepath = @./textures/S_T_Plant_WhiteFlower001_T1_01_D.png@
+}
+

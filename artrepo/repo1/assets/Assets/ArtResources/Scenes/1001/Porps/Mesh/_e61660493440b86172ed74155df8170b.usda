@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_e61660493440b86172ed74155df8170b"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_e61660493440b86172ed74155df8170b" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "G_Conch_02"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "e6166049-3440-b861-72ed-74155df8170b"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_e61660493440b86172ed74155df8170bDeps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

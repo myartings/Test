@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_a9f654655e1e4874977bc0f81f760f9c"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_a9f654655e1e4874977bc0f81f760f9c" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "G_SailingBoat_Small_02"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "a9f65465-5e1e-4874-977b-c0f81f760f9c"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_a9f654655e1e4874977bc0f81f760f9cDeps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

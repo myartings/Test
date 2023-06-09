@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_be1ee771fa351c5fe74ef63d75bf92bf"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_be1ee771fa351c5fe74ef63d75bf92bf" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_1001_SunShade_Blue_02_Sub0_2"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "be1ee771-fa35-1c5f-e74e-f63d75bf92bf"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_be1ee771fa351c5fe74ef63d75bf92bfDeps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

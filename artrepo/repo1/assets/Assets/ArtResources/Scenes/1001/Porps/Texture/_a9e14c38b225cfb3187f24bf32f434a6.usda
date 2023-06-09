@@ -1,0 +1,23 @@
+#usda 1.0
+(
+    defaultPrim = "_a9e14c38b225cfb3187f24bf32f434a6"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_a9e14c38b225cfb3187f24bf32f434a6" (
+    prepend apiSchemas = ["TextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "RGBLUT"
+    uniform token assetBase:assetType = "texture"
+    uniform string assetId:guid = "a9e14c38-b225-cfb3-187f-24bf32f434a6"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 1
+    uniform token baseTextureAsset:wrapMode = "kRepeat"
+    asset inputs:textureFilepath = @./textures/RGBLUT.png@
+}
+

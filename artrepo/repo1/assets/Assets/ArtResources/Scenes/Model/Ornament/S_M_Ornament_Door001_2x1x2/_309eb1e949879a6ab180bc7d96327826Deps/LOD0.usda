@@ -1,0 +1,40 @@
+#usda 1.0
+(
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Mesh "LOD0"
+{
+    uniform bool doubleSided
+    float3[] extent = [(-0.85027707, 0.12508798, -0.26050252), (0.8502737, 1.8499914, -0.26050228)]
+    int[] faceVertexCounts = [3, 3, 3, 3]
+    int[] faceVertexIndices = [0, 1, 2, 3, 2, 1, 4, 5, 6, 7, 6, 5]
+    normal3f[] normals = [(-1.7238206e-7, 0, 1), (-1.7238206e-7, 0, 1), (-1.7238206e-7, 0, 1), (-1.7238206e-7, 0, 1), (-1.5140864e-7, 0, 1), (-1.5140864e-7, 0, 1), (-1.5140864e-7, 0, 1), (-1.5140864e-7, 0, 1)]
+    uniform token orientation
+    point3f[] points = [(-0.40769076, 1.8499914, -0.26050246), (-0.85027707, 1.8499914, -0.26050255), (-0.40769076, 0.12508796, -0.2605025), (-0.85027707, 0.12508796, -0.26050255), (0.85027367, 1.8499914, -0.26050228), (-0.15751484, 1.8499914, -0.26050243), (0.85027367, 0.12508796, -0.2605023), (-0.15751484, 0.12508796, -0.26050246)]
+    color4f[] primvars:colors (
+        elementSize = 1
+        interpolation = "constant"
+    )
+    color3f[] primvars:displayColor = [(0.21006761, 0.34218583, 0.5152035)] (
+        interpolation = "constant"
+    )
+    float[] primvars:displayOpacity = [1] (
+        interpolation = "constant"
+    )
+    float2[] primvars:st = [(0.5294169, 0.82167137), (0.46560192, 0.82167137), (0.5294169, 0.57296294), (0.46560192, 0.57296294), (0.86993957, 0.86000985), (0.70568156, 0.86000985), (0.86993957, 0.5788701), (0.70568156, 0.5788701)] (
+        elementSize = 1
+        interpolation = "constant"
+    )
+    float4[] primvars:tangents = [(1, 0, 0, -1), (1, 0, 0, -1), (1, 0, 0, -1), (1, 0, 0, -1), (1, 0, 0, -1), (1, 0, 0, -1), (1, 0, 0, -1), (1, 0, 0, -1)] (
+        elementSize = 1
+        interpolation = "vertex"
+    )
+    uniform token purpose
+    token visibility
+    matrix4d xformOp:transform = ( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (0, 0, 0, 1) )
+    uniform token[] xformOpOrder = ["xformOp:transform"]
+}
+
