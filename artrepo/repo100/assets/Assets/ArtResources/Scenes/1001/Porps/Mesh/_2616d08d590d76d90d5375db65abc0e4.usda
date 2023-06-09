@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_2616d08d590d76d90d5375db65abc0e4"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_2616d08d590d76d90d5375db65abc0e4" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_1001_Deckchair_Yellow_01"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "2616d08d-590d-76d9-0d53-75db65abc0e4"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_2616d08d590d76d90d5375db65abc0e4Deps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

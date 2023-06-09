@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_09cc85c2d6ff9672fd508d7cb77d920d"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_09cc85c2d6ff9672fd508d7cb77d920d" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_1001_Loudspeaker_Black_01_Sub1_2"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "09cc85c2-d6ff-9672-fd50-8d7cb77d920d"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_09cc85c2d6ff9672fd508d7cb77d920dDeps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

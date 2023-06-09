@@ -1,0 +1,3303 @@
+#usda 1.0
+(
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_a9f654655e1e4874977bc0f81f760f9c" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "G_SailingBoat_Small_02"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "a9f65465-5e1e-4874-977b-c0f81f760f9c"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_a9f654655e1e4874977bc0f81f760f9c.usda@</_a9f654655e1e4874977bc0f81f760f9c>
+    )
+    {
+    }
+}
+
+def Scope "_abb7d4c434346a1388ad882de168da5f" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "T_Map_Color_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "abb7d4c4-3434-6a13-88ad-882de168da5f"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Texture/_abb7d4c434346a1388ad882de168da5f.usda@</_abb7d4c434346a1388ad882de168da5f>
+    )
+    {
+    }
+}
+
+def Scope "_a18ec0c166c8dff414dfafe8fc25ee19" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_SailingBoat_Small_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "a18ec0c1-66c8-dff4-14df-afe8fc25ee19"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_a18ec0c166c8dff414dfafe8fc25ee19.usda@</_a18ec0c166c8dff414dfafe8fc25ee19>
+    )
+    {
+    }
+}
+
+def Scope "_d1fa851b08f330237d38663eaf4bd219" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "_______001"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "d1fa851b-08f3-3023-7d38-663eaf4bd219"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Effect/Mesh/Temporary/_d1fa851b08f330237d38663eaf4bd219.usda@</_d1fa851b08f330237d38663eaf4bd219>
+    )
+    {
+    }
+}
+
+def Scope "_a0d1abd6cfb9e9234b1deb802e9b9433" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "N4"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "a0d1abd6-cfb9-e923-4b1d-eb802e9b9433"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Effect/Texture/Temporary/_a0d1abd6cfb9e9234b1deb802e9b9433.usda@</_a0d1abd6cfb9e9234b1deb802e9b9433>
+    )
+    {
+    }
+}
+
+def Scope "_6d08f75988e668f3096851ef1c52bd97" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "N5"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "6d08f759-88e6-68f3-0968-51ef1c52bd97"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Effect/Texture/Temporary/_6d08f75988e668f3096851ef1c52bd97.usda@</_6d08f75988e668f3096851ef1c52bd97>
+    )
+    {
+    }
+}
+
+def Scope "_4e77f911e4bc4033fa7fd87541ea9d44" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "_33"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "4e77f911-e4bc-4033-fa7f-d87541ea9d44"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Effect/Texture/Temporary/_4e77f911e4bc4033fa7fd87541ea9d44.usda@</_4e77f911e4bc4033fa7fd87541ea9d44>
+    )
+    {
+    }
+}
+
+def Scope "_3c95e07ba55d2e530255d3e51bf6e9d0" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "______"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "3c95e07b-a55d-2e53-0255-d3e51bf6e9d0"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Effect/Mesh/Temporary/_3c95e07ba55d2e530255d3e51bf6e9d0.usda@</_3c95e07ba55d2e530255d3e51bf6e9d0>
+    )
+    {
+    }
+}
+
+def Scope "_05c2724c5a94b213e9fe1bcfb897a248" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "N3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "05c2724c-5a94-b213-e9fe-1bcfb897a248"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Effect/Texture/Temporary/_05c2724c5a94b213e9fe1bcfb897a248.usda@</_05c2724c5a94b213e9fe1bcfb897a248>
+    )
+    {
+    }
+}
+
+def Scope "_ae5b2330ee9f22439bee40c91e020631" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "_11"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "ae5b2330-ee9f-2243-9bee-40c91e020631"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Effect/Texture/Temporary/_ae5b2330ee9f22439bee40c91e020631.usda@</_ae5b2330ee9f22439bee40c91e020631>
+    )
+    {
+    }
+}
+
+def Scope "_61836df5c63e12091c726fe7ab2fb767" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_Ornament_Door001_2x1x2_LOD0_Sub0_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "61836df5-c63e-1209-1c72-6fe7ab2fb767"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Ornament/S_M_Ornament_Door001_2x1x2/_61836df5c63e12091c726fe7ab2fb767.usda@</_61836df5c63e12091c726fe7ab2fb767>
+    )
+    {
+    }
+}
+
+def Scope "_ca74ed675477d723da01f2e8305246a9" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_T_Ornament_Door001_T1_01_D"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "ca74ed67-5477-d723-da01-f2e8305246a9"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Ornament/S_M_Ornament_Door001_2x1x2/Textures/_ca74ed675477d723da01f2e8305246a9.usda@</_ca74ed675477d723da01f2e8305246a9>
+    )
+    {
+    }
+}
+
+def Scope "_96f2c56261ebe3638a42716855aaa11f" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_T_Ornament_Door001_T1_NMS"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "96f2c562-61eb-e363-8a42-716855aaa11f"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Ornament/S_M_Ornament_Door001_2x1x2/Textures/_96f2c56261ebe3638a42716855aaa11f.usda@</_96f2c56261ebe3638a42716855aaa11f>
+    )
+    {
+    }
+}
+
+def Scope "_57b5246b0e1ec7d2fb483da3e60fb0d4" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_Ornament_Door001_2x1x2_LOD0_Sub1_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "57b5246b-0e1e-c7d2-fb48-3da3e60fb0d4"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Ornament/S_M_Ornament_Door001_2x1x2/_57b5246b0e1ec7d2fb483da3e60fb0d4.usda@</_57b5246b0e1ec7d2fb483da3e60fb0d4>
+    )
+    {
+    }
+}
+
+def Scope "_9cbbc3e1aee4e4330a195996221c4e4f" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_T_Ornament_Door001_T2_01_D"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "9cbbc3e1-aee4-e433-0a19-5996221c4e4f"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Ornament/S_M_Ornament_Door001_2x1x2/Textures/_9cbbc3e1aee4e4330a195996221c4e4f.usda@</_9cbbc3e1aee4e4330a195996221c4e4f>
+    )
+    {
+    }
+}
+
+def Scope "_22e8486a56d6a9530a8dbec5db4b3d9f" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_T_Ornament_Door001_T2_NMS"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "22e8486a-56d6-a953-0a8d-bec5db4b3d9f"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Ornament/S_M_Ornament_Door001_2x1x2/Textures/_22e8486a56d6a9530a8dbec5db4b3d9f.usda@</_22e8486a56d6a9530a8dbec5db4b3d9f>
+    )
+    {
+    }
+}
+
+def Scope "_309eb1e949879a6ab180bc7d96327826" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_Ornament_Door001_2x1x2_LOD0_Sub2_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "309eb1e9-4987-9a6a-b180-bc7d96327826"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Ornament/S_M_Ornament_Door001_2x1x2/_309eb1e949879a6ab180bc7d96327826.usda@</_309eb1e949879a6ab180bc7d96327826>
+    )
+    {
+    }
+}
+
+def Scope "_d900efa6bdeb15267bc427c6b4905151" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_Building_Window003_1x1x2_LOD0_Sub0_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "d900efa6-bdeb-1526-7bc4-27c6b4905151"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Ornament/S_M_Building_Window003_1x1x2/_d900efa6bdeb15267bc427c6b4905151.usda@</_d900efa6bdeb15267bc427c6b4905151>
+    )
+    {
+    }
+}
+
+def Scope "_ff10c90544e6d0530944c678fba6c21e" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_T_Building_Window003_T2_01_D"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "ff10c905-44e6-d053-0944-c678fba6c21e"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Ornament/S_M_Building_Window003_1x1x2/Texture/_ff10c90544e6d0530944c678fba6c21e.usda@</_ff10c90544e6d0530944c678fba6c21e>
+    )
+    {
+    }
+}
+
+def Scope "_1c16128f9b9afcc30a252a24fee58570" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_T_Building_Window003_T2_01_NMS"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "1c16128f-9b9a-fcc3-0a25-2a24fee58570"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Ornament/S_M_Building_Window003_1x1x2/Texture/_1c16128f9b9afcc30a252a24fee58570.usda@</_1c16128f9b9afcc30a252a24fee58570>
+    )
+    {
+    }
+}
+
+def Scope "_ef36a63875cbc0fd9cfe7582f9b056e2" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_Building_Window003_1x1x2_LOD0_Sub1_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "ef36a638-75cb-c0fd-9cfe-7582f9b056e2"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Ornament/S_M_Building_Window003_1x1x2/_ef36a63875cbc0fd9cfe7582f9b056e2.usda@</_ef36a63875cbc0fd9cfe7582f9b056e2>
+    )
+    {
+    }
+}
+
+def Scope "_f34275392f2816936b80efaf515ec0e4" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_T_Building_Window003_T1_01_D"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "f3427539-2f28-1693-6b80-efaf515ec0e4"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Ornament/S_M_Building_Window003_1x1x2/Texture/_f34275392f2816936b80efaf515ec0e4.usda@</_f34275392f2816936b80efaf515ec0e4>
+    )
+    {
+    }
+}
+
+def Scope "_6fec761b21434d73d8f2559903adcde7" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_T_Building_Window003_T1_01_NMS"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "6fec761b-2143-4d73-d8f2-559903adcde7"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Ornament/S_M_Building_Window003_1x1x2/Texture/_6fec761b21434d73d8f2559903adcde7.usda@</_6fec761b21434d73d8f2559903adcde7>
+    )
+    {
+    }
+}
+
+def Scope "_881d33ba32529d45d636f45c898d9e10" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_Building_Window003_1x1x2_LOD0_Sub2_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "881d33ba-3252-9d45-d636-f45c898d9e10"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Ornament/S_M_Building_Window003_1x1x2/_881d33ba32529d45d636f45c898d9e10.usda@</_881d33ba32529d45d636f45c898d9e10>
+    )
+    {
+    }
+}
+
+def Scope "_485561b916978ffd9ea57adae5f17248" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Billboard_Black1_2_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "485561b9-1697-8ffd-9ea5-7adae5f17248"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_485561b916978ffd9ea57adae5f17248.usda@</_485561b916978ffd9ea57adae5f17248>
+    )
+    {
+    }
+}
+
+def Scope "_4b2cf5efdb009aa34910df28415b53c8" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_T_1001_AdavertisingBox_painting_D"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "4b2cf5ef-db00-9aa3-4910-df28415b53c8"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Texture/_4b2cf5efdb009aa34910df28415b53c8.usda@</_4b2cf5efdb009aa34910df28415b53c8>
+    )
+    {
+    }
+}
+
+def Scope "_969ef5f14e4fdff3a5cf967a49c42d44" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Billboard_Black1_2_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "969ef5f1-4e4f-dff3-a5cf-967a49c42d44"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_969ef5f14e4fdff3a5cf967a49c42d44.usda@</_969ef5f14e4fdff3a5cf967a49c42d44>
+    )
+    {
+    }
+}
+
+def Scope "_a9e14c38b225cfb3187f24bf32f434a6" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "RGBLUT"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "a9e14c38-b225-cfb3-187f-24bf32f434a6"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Texture/_a9e14c38b225cfb3187f24bf32f434a6.usda@</_a9e14c38b225cfb3187f24bf32f434a6>
+    )
+    {
+    }
+}
+
+def Scope "_eefda86bf68958b7d2e057a0b92cbec6" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Billboard_Black1_3_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "eefda86b-f689-58b7-d2e0-57a0b92cbec6"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_eefda86bf68958b7d2e057a0b92cbec6.usda@</_eefda86bf68958b7d2e057a0b92cbec6>
+    )
+    {
+    }
+}
+
+def Scope "_30363c23ae5108b9e98abb001519e1ca" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Billboard_Black1_3_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "30363c23-ae51-08b9-e98a-bb001519e1ca"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_30363c23ae5108b9e98abb001519e1ca.usda@</_30363c23ae5108b9e98abb001519e1ca>
+    )
+    {
+    }
+}
+
+def Scope "_8c97dab556502d323fa13fbb9b4758c5" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Billboard_Black1_7_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "8c97dab5-5650-2d32-3fa1-3fbb9b4758c5"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_8c97dab556502d323fa13fbb9b4758c5.usda@</_8c97dab556502d323fa13fbb9b4758c5>
+    )
+    {
+    }
+}
+
+def Scope "_525c4efd0e887d3c04cbd31b377207c9" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Billboard_Black1_7_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "525c4efd-0e88-7d3c-04cb-d31b377207c9"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_525c4efd0e887d3c04cbd31b377207c9.usda@</_525c4efd0e887d3c04cbd31b377207c9>
+    )
+    {
+    }
+}
+
+def Scope "_0055ec0ed9a75c6f2e833cbbd44fd2b6" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Billboard_Black1_9_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "0055ec0e-d9a7-5c6f-2e83-3cbbd44fd2b6"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_0055ec0ed9a75c6f2e833cbbd44fd2b6.usda@</_0055ec0ed9a75c6f2e833cbbd44fd2b6>
+    )
+    {
+    }
+}
+
+def Scope "_de9e7846817f0c6115e9d01b787a8dba" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Billboard_Black1_9_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "de9e7846-817f-0c61-15e9-d01b787a8dba"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_de9e7846817f0c6115e9d01b787a8dba.usda@</_de9e7846817f0c6115e9d01b787a8dba>
+    )
+    {
+    }
+}
+
+def Scope "_e6a3a07d33dc8cbc6d3868d9f37082b6" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Billboard_Black1_8_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "e6a3a07d-33dc-8cbc-6d38-68d9f37082b6"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_e6a3a07d33dc8cbc6d3868d9f37082b6.usda@</_e6a3a07d33dc8cbc6d3868d9f37082b6>
+    )
+    {
+    }
+}
+
+def Scope "_386834356b04dcb2565284795f45ddba" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Billboard_Black1_8_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "38683435-6b04-dcb2-5652-84795f45ddba"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_386834356b04dcb2565284795f45ddba.usda@</_386834356b04dcb2565284795f45ddba>
+    )
+    {
+    }
+}
+
+def Scope "_2028576078eb1a13d1dc2e2abe59483d" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Billboard_Black1_5_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "20285760-78eb-1a13-d1dc-2e2abe59483d"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_2028576078eb1a13d1dc2e2abe59483d.usda@</_2028576078eb1a13d1dc2e2abe59483d>
+    )
+    {
+    }
+}
+
+def Scope "_fee3c32820334a1deab6c28a126c1731" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Billboard_Black1_5_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "fee3c328-2033-4a1d-eab6-c28a126c1731"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_fee3c32820334a1deab6c28a126c1731.usda@</_fee3c32820334a1deab6c28a126c1731>
+    )
+    {
+    }
+}
+
+def Scope "_9cad8886fc8f302f21ed70bb3da33014" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Billboard_Black1_6_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "9cad8886-fc8f-302f-21ed-70bb3da33014"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_9cad8886fc8f302f21ed70bb3da33014.usda@</_9cad8886fc8f302f21ed70bb3da33014>
+    )
+    {
+    }
+}
+
+def Scope "_42661ccea45760211a879c1b91966f18" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Billboard_Black1_6_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "42661cce-a457-6021-1a87-9c1b91966f18"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_42661ccea45760211a879c1b91966f18.usda@</_42661ccea45760211a879c1b91966f18>
+    )
+    {
+    }
+}
+
+def Scope "_59376f1eb32c38cf339b70a5c88d4fb8" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Billboard_Black1_10_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "59376f1e-b32c-38cf-339b-70a5c88d4fb8"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_59376f1eb32c38cf339b70a5c88d4fb8.usda@</_59376f1eb32c38cf339b70a5c88d4fb8>
+    )
+    {
+    }
+}
+
+def Scope "_87fcfb56ebf468c108f19c0564b810b4" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Billboard_Black1_10_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "87fcfb56-ebf4-68c1-08f1-9c0564b810b4"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_87fcfb56ebf468c108f19c0564b810b4.usda@</_87fcfb56ebf468c108f19c0564b810b4>
+    )
+    {
+    }
+}
+
+def Scope "_bbaeb6ff52f3173e27073116659347ac" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Billboard_Black1_4_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "bbaeb6ff-52f3-173e-2707-3116659347ac"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_bbaeb6ff52f3173e27073116659347ac.usda@</_bbaeb6ff52f3173e27073116659347ac>
+    )
+    {
+    }
+}
+
+def Scope "_656522b70a2b47301c6dddb6c9a618a0" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Billboard_Black1_4_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "656522b7-0a2b-4730-1c6d-ddb6c9a618a0"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_656522b70a2b47301c6dddb6c9a618a0.usda@</_656522b70a2b47301c6dddb6c9a618a0>
+    )
+    {
+    }
+}
+
+def Scope "_96baf3f15110e6f31ba3701920062f31" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Block_Green_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "96baf3f1-5110-e6f3-1ba3-701920062f31"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Texture/_96baf3f15110e6f31ba3701920062f31.usda@</_96baf3f15110e6f31ba3701920062f31>
+    )
+    {
+    }
+}
+
+def Scope "_397ec8932ea7d19a2b64b65ca2f23de2" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Table_Wood_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "397ec893-2ea7-d19a-2b64-b65ca2f23de2"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_397ec8932ea7d19a2b64b65ca2f23de2.usda@</_397ec8932ea7d19a2b64b65ca2f23de2>
+    )
+    {
+    }
+}
+
+def Scope "_84f01babe5d909aa008b45d6978a7d3a" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Pelvis_Lifebuoy_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "84f01bab-e5d9-09aa-008b-45d6978a7d3a"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_84f01babe5d909aa008b45d6978a7d3a.usda@</_84f01babe5d909aa008b45d6978a7d3a>
+    )
+    {
+    }
+}
+
+def Scope "_771b2c52c84af3d5333c78b04d1208a3" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "Box051"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "771b2c52-c84a-f3d5-333c-78b04d1208a3"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_771b2c52c84af3d5333c78b04d1208a3.usda@</_771b2c52c84af3d5333c78b04d1208a3>
+    )
+    {
+    }
+}
+
+def Scope "_283d701fe7d245032fea436480c9210f" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Firehydrant_Red_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "283d701f-e7d2-4503-2fea-436480c9210f"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_283d701fe7d245032fea436480c9210f.usda@</_283d701fe7d245032fea436480c9210f>
+    )
+    {
+    }
+}
+
+def Scope "_72dd152235d7f2ff881587c6911e45ab" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_DeckChair_Yellow_02"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "72dd1522-35d7-f2ff-8815-87c6911e45ab"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_72dd152235d7f2ff881587c6911e45ab.usda@</_72dd152235d7f2ff881587c6911e45ab>
+    )
+    {
+    }
+}
+
+def Scope "_8a54e798fe899de1a6338c9044c4763c" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_DeckChair_Blue_02"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "8a54e798-fe89-9de1-a633-8c9044c4763c"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_8a54e798fe899de1a6338c9044c4763c.usda@</_8a54e798fe899de1a6338c9044c4763c>
+    )
+    {
+    }
+}
+
+def Scope "_cf38822df74fe3d4c6c986bd7a58e676" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_SurfBoard_Red_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "cf38822d-f74f-e3d4-c6c9-86bd7a58e676"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_cf38822df74fe3d4c6c986bd7a58e676.usda@</_cf38822df74fe3d4c6c986bd7a58e676>
+    )
+    {
+    }
+}
+
+def Scope "_7f5fb2fa39335124004814fdb9655d1e" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_StreetLamp_Tall_02_Sub0_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "7f5fb2fa-3933-5124-0048-14fdb9655d1e"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_7f5fb2fa39335124004814fdb9655d1e.usda@</_7f5fb2fa39335124004814fdb9655d1e>
+    )
+    {
+    }
+}
+
+def Scope "_4969fb64f11384ffe77246b9f4455aad" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_StreetLamp_Tall_02_Sub1_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "4969fb64-f113-84ff-e772-46b9f4455aad"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_4969fb64f11384ffe77246b9f4455aad.usda@</_4969fb64f11384ffe77246b9f4455aad>
+    )
+    {
+    }
+}
+
+def Scope "_2e426ee6b68ad947adbac7678478925f" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_StreetLamp_Tall_02_Sub2_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "2e426ee6-b68a-d947-adba-c7678478925f"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_2e426ee6b68ad947adbac7678478925f.usda@</_2e426ee6b68ad947adbac7678478925f>
+    )
+    {
+    }
+}
+
+def Scope "_29404d0bd8c053ef6facbe3d3effd38b" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_LifeBuoy_Red_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "29404d0b-d8c0-53ef-6fac-be3d3effd38b"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_29404d0bd8c053ef6facbe3d3effd38b.usda@</_29404d0bd8c053ef6facbe3d3effd38b>
+    )
+    {
+    }
+}
+
+def Scope "_be10ff09bdf259777decad3eeda72d12" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Smallhouse_Blue_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "be10ff09-bdf2-5977-7dec-ad3eeda72d12"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_be10ff09bdf259777decad3eeda72d12.usda@</_be10ff09bdf259777decad3eeda72d12>
+    )
+    {
+    }
+}
+
+def Scope "_edfd8f70a39b132d7bcaa671cb6406bc" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "G_Bench_Wood_06_LOD001_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "edfd8f70-a39b-132d-7bca-a671cb6406bc"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_edfd8f70a39b132d7bcaa671cb6406bc.usda@</_edfd8f70a39b132d7bcaa671cb6406bc>
+    )
+    {
+    }
+}
+
+def Scope "_33361b38fb43432340a04ad1675159b0" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "G_Bench_Wood_06_LOD001_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "33361b38-fb43-4323-40a0-4ad1675159b0"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_33361b38fb43432340a04ad1675159b0.usda@</_33361b38fb43432340a04ad1675159b0>
+    )
+    {
+    }
+}
+
+def Scope "_455accd1a52d2f7268b9861212fb32a6" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Chair_Wood_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "455accd1-a52d-2f72-68b9-861212fb32a6"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_455accd1a52d2f7268b9861212fb32a6.usda@</_455accd1a52d2f7268b9861212fb32a6>
+    )
+    {
+    }
+}
+
+def Scope "_92b76069e391ecd869b4f2b2101c5e98" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Umbrella_Round_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "92b76069-e391-ecd8-69b4-f2b2101c5e98"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_92b76069e391ecd869b4f2b2101c5e98.usda@</_92b76069e391ecd869b4f2b2101c5e98>
+    )
+    {
+    }
+}
+
+def Scope "_b1b424477fa2fd02ed94cc1967c6e251" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Surfboard_Yellow_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "b1b42447-7fa2-fd02-ed94-cc1967c6e251"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_b1b424477fa2fd02ed94cc1967c6e251.usda@</_b1b424477fa2fd02ed94cc1967c6e251>
+    )
+    {
+    }
+}
+
+def Scope "_9f8fc8688f7a330d2655c8090a0d9791" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_SurfBoard_Yellow_02"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "9f8fc868-8f7a-330d-2655-c8090a0d9791"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_9f8fc8688f7a330d2655c8090a0d9791.usda@</_9f8fc8688f7a330d2655c8090a0d9791>
+    )
+    {
+    }
+}
+
+def Scope "_ba05824e6ad46d19a1726a59412dbe59" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_SurfBoard_White_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "ba05824e-6ad4-6d19-a172-6a59412dbe59"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_ba05824e6ad46d19a1726a59412dbe59.usda@</_ba05824e6ad46d19a1726a59412dbe59>
+    )
+    {
+    }
+}
+
+def Scope "_2616d08d590d76d90d5375db65abc0e4" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Deckchair_Yellow_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "2616d08d-590d-76d9-0d53-75db65abc0e4"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_2616d08d590d76d90d5375db65abc0e4.usda@</_2616d08d590d76d90d5375db65abc0e4>
+    )
+    {
+    }
+}
+
+def Scope "_34a21bf5bb02038d95718d5a09d5abd7" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "Object003"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "34a21bf5-bb02-038d-9571-8d5a09d5abd7"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_34a21bf5bb02038d95718d5a09d5abd7.usda@</_34a21bf5bb02038d95718d5a09d5abd7>
+    )
+    {
+    }
+}
+
+def Scope "_ad038aa1b7f603f83111a64764f6a181" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "G_StreetLamp_Tall_03A_LOD0"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "ad038aa1-b7f6-03f8-3111-a64764f6a181"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_ad038aa1b7f603f83111a64764f6a181.usda@</_ad038aa1b7f603f83111a64764f6a181>
+    )
+    {
+    }
+}
+
+def Scope "_2776050e6c2cba1c2bb2d450c8eb7515" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Guardrail_Blue_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "2776050e-6c2c-ba1c-2bb2-d450c8eb7515"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_2776050e6c2cba1c2bb2d450c8eb7515.usda@</_2776050e6c2cba1c2bb2d450c8eb7515>
+    )
+    {
+    }
+}
+
+def Scope "_702462c391e532c026b33625cd161f5b" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "Box018_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "702462c3-91e5-32c0-26b3-3625cd161f5b"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_702462c391e532c026b33625cd161f5b.usda@</_702462c391e532c026b33625cd161f5b>
+    )
+    {
+    }
+}
+
+def Scope "_aeeff68bc93d62ce1dd9da8561234057" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "Box018_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "aeeff68b-c93d-62ce-1dd9-da8561234057"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_aeeff68bc93d62ce1dd9da8561234057.usda@</_aeeff68bc93d62ce1dd9da8561234057>
+    )
+    {
+    }
+}
+
+def Scope "_d64c7c94d738bf73781f1af9cb50de63" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "SP_T_Grass1_01_D"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "d64c7c94-d738-bf73-781f-1af9cb50de63"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Procedural/Terrain/Texture/_d64c7c94d738bf73781f1af9cb50de63.usda@</_d64c7c94d738bf73781f1af9cb50de63>
+    )
+    {
+    }
+}
+
+def Scope "_155bee89c0b4d67564c0185cd1392f39" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_SunShade_Blue_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "155bee89-c0b4-d675-64c0-185cd1392f39"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_155bee89c0b4d67564c0185cd1392f39.usda@</_155bee89c0b4d67564c0185cd1392f39>
+    )
+    {
+    }
+}
+
+def Scope "_31fd8c9b5827e3edbd017584cd8a4613" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Sign_Color_01_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "31fd8c9b-5827-e3ed-bd01-7584cd8a4613"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_31fd8c9b5827e3edbd017584cd8a4613.usda@</_31fd8c9b5827e3edbd017584cd8a4613>
+    )
+    {
+    }
+}
+
+def Scope "_ef3618d300ffb3e3866b992461bf191f" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Sign_Color_01_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "ef3618d3-00ff-b3e3-866b-992461bf191f"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_ef3618d300ffb3e3866b992461bf191f.usda@</_ef3618d300ffb3e3866b992461bf191f>
+    )
+    {
+    }
+}
+
+def Scope "_0c82c9708965f590df33fbd140fdd9f8" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Sign_Brown_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "0c82c970-8965-f590-df33-fbd140fdd9f8"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_0c82c9708965f590df33fbd140fdd9f8.usda@</_0c82c9708965f590df33fbd140fdd9f8>
+    )
+    {
+    }
+}
+
+def Scope "_f8a9721cd3c934e01cebfa2dd20a6e4d" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Sign_Black_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "f8a9721c-d3c9-34e0-1ceb-fa2dd20a6e4d"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_f8a9721cd3c934e01cebfa2dd20a6e4d.usda@</_f8a9721cd3c934e01cebfa2dd20a6e4d>
+    )
+    {
+    }
+}
+
+def Scope "_b9b4ca0cf026a24933d667e8dc451089" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Sign_Purple_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "b9b4ca0c-f026-a249-33d6-67e8dc451089"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_b9b4ca0cf026a24933d667e8dc451089.usda@</_b9b4ca0cf026a24933d667e8dc451089>
+    )
+    {
+    }
+}
+
+def Scope "_18d4e4024e4dc86f906f43960e02a779" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Umbrella_Round_02"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "18d4e402-4e4d-c86f-906f-43960e02a779"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_18d4e4024e4dc86f906f43960e02a779.usda@</_18d4e4024e4dc86f906f43960e02a779>
+    )
+    {
+    }
+}
+
+def Scope "_fbe6084f3a4dd5b0d02d0d3ba75d2a66" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_SunShade_Red_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "fbe6084f-3a4d-d5b0-d02d-0d3ba75d2a66"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_fbe6084f3a4dd5b0d02d0d3ba75d2a66.usda@</_fbe6084f3a4dd5b0d02d0d3ba75d2a66>
+    )
+    {
+    }
+}
+
+def Scope "_1d4f28cf0460951920bb8ea14ffe0517" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "G_BananaTree_Plant_01_Sub0_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "1d4f28cf-0460-9519-20bb-8ea14ffe0517"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_1d4f28cf0460951920bb8ea14ffe0517.usda@</_1d4f28cf0460951920bb8ea14ffe0517>
+    )
+    {
+    }
+}
+
+def Scope "_2b796151cc4040c2c781dce502de02a4" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "G_BananaTree_Plant_01_Sub1_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "2b796151-cc40-40c2-c781-dce502de02a4"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_2b796151cc4040c2c781dce502de02a4.usda@</_2b796151cc4040c2c781dce502de02a4>
+    )
+    {
+    }
+}
+
+def Scope "_4c52f4d38bd91d7a8d495d3b72e3ca56" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "G_BananaTree_Plant_01_Sub2_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "4c52f4d3-8bd9-1d7a-8d49-5d3b72e3ca56"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_4c52f4d38bd91d7a8d495d3b72e3ca56.usda@</_4c52f4d38bd91d7a8d495d3b72e3ca56>
+    )
+    {
+    }
+}
+
+def Scope "_e829e93212a004cbf7dbc1d30cadc163" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Flowerpot_Yellow_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "e829e932-12a0-04cb-f7db-c1d30cadc163"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_e829e93212a004cbf7dbc1d30cadc163.usda@</_e829e93212a004cbf7dbc1d30cadc163>
+    )
+    {
+    }
+}
+
+def Scope "_2241ab25f65c1665278617f623726c20" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "Box025"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "2241ab25-f65c-1665-2786-17f623726c20"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_2241ab25f65c1665278617f623726c20.usda@</_2241ab25f65c1665278617f623726c20>
+    )
+    {
+    }
+}
+
+def Scope "_c7c558beb6be6112b1e92a3690b41063" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "Box024"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "c7c558be-b6be-6112-b1e9-2a3690b41063"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_c7c558beb6be6112b1e92a3690b41063.usda@</_c7c558beb6be6112b1e92a3690b41063>
+    )
+    {
+    }
+}
+
+def Scope "_be1ee771fa351c5fe74ef63d75bf92bf" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_SunShade_Blue_02_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "be1ee771-fa35-1c5f-e74e-f63d75bf92bf"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_be1ee771fa351c5fe74ef63d75bf92bf.usda@</_be1ee771fa351c5fe74ef63d75bf92bf>
+    )
+    {
+    }
+}
+
+def Scope "_60d57339a2ed4c51dc241a9dd98acdb3" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_SunShade_Blue_02_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "60d57339-a2ed-4c51-dc24-1a9dd98acdb3"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_60d57339a2ed4c51dc241a9dd98acdb3.usda@</_60d57339a2ed4c51dc241a9dd98acdb3>
+    )
+    {
+    }
+}
+
+def Scope "_7a6ae2caeae1b9e33b7c5b7270e590ce" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "Object017"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "7a6ae2ca-eae1-b9e3-3b7c-5b7270e590ce"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_7a6ae2caeae1b9e33b7c5b7270e590ce.usda@</_7a6ae2caeae1b9e33b7c5b7270e590ce>
+    )
+    {
+    }
+}
+
+def Scope "_418324cf154d6fa7c642f938e708b40e" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "Object018"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "418324cf-154d-6fa7-c642-f938e708b40e"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_418324cf154d6fa7c642f938e708b40e.usda@</_418324cf154d6fa7c642f938e708b40e>
+    )
+    {
+    }
+}
+
+def Scope "_c4129239e81f9c68f7af2a0da1110f45" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "Object006"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "c4129239-e81f-9c68-f7af-2a0da1110f45"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_c4129239e81f9c68f7af2a0da1110f45.usda@</_c4129239e81f9c68f7af2a0da1110f45>
+    )
+    {
+    }
+}
+
+def Scope "_50760f2767e38d2d5e7af253f06af8ff" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "G_Conch_04"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "50760f27-67e3-8d2d-5e7a-f253f06af8ff"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_50760f2767e38d2d5e7af253f06af8ff.usda@</_50760f2767e38d2d5e7af253f06af8ff>
+    )
+    {
+    }
+}
+
+def Scope "_24e5257f4782ce4394e4e7aca64bdb29" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "G_Conch_03"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "24e5257f-4782-ce43-94e4-e7aca64bdb29"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_24e5257f4782ce4394e4e7aca64bdb29.usda@</_24e5257f4782ce4394e4e7aca64bdb29>
+    )
+    {
+    }
+}
+
+def Scope "_e61660493440b86172ed74155df8170b" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "G_Conch_02"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "e6166049-3440-b861-72ed-74155df8170b"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_e61660493440b86172ed74155df8170b.usda@</_e61660493440b86172ed74155df8170b>
+    )
+    {
+    }
+}
+
+def Scope "_81da3938e91fe2747ac94eb9c60f6138" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "G_Conch_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "81da3938-e91f-e274-7ac9-4eb9c60f6138"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_81da3938e91fe2747ac94eb9c60f6138.usda@</_81da3938e91fe2747ac94eb9c60f6138>
+    )
+    {
+    }
+}
+
+def Scope "_604fc4735b117c98ce184cf197c6c2a8" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Block_Green_02"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "604fc473-5b11-7c98-ce18-4cf197c6c2a8"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_604fc4735b117c98ce184cf197c6c2a8.usda@</_604fc4735b117c98ce184cf197c6c2a8>
+    )
+    {
+    }
+}
+
+def Scope "_fe0b24e690dce2a985269e299c72f928" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_AdavertisingBox_Big04_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "fe0b24e6-90dc-e2a9-8526-9e299c72f928"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_fe0b24e690dce2a985269e299c72f928.usda@</_fe0b24e690dce2a985269e299c72f928>
+    )
+    {
+    }
+}
+
+def Scope "_20c0b0aec804b2a7be4c72893047a624" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_AdavertisingBox_Big04_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "20c0b0ae-c804-b2a7-be4c-72893047a624"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_20c0b0aec804b2a7be4c72893047a624.usda@</_20c0b0aec804b2a7be4c72893047a624>
+    )
+    {
+    }
+}
+
+def Scope "_21c0ffef2d0a8f0349298884e0a2d394" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_T_1001_AdavertisingBox_painting02_D"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "21c0ffef-2d0a-8f03-4929-8884e0a2d394"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Texture/_21c0ffef2d0a8f0349298884e0a2d394.usda@</_21c0ffef2d0a8f0349298884e0a2d394>
+    )
+    {
+    }
+}
+
+def Scope "_63c04a82e5f141ee1943059bb9be3b89" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_AdavertisingBox_Big03"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "63c04a82-e5f1-41ee-1943-059bb9be3b89"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_63c04a82e5f141ee1943059bb9be3b89.usda@</_63c04a82e5f141ee1943059bb9be3b89>
+    )
+    {
+    }
+}
+
+def Scope "_e183b689835b7ee0f8bbb792c1430d1d" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "Box002_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "e183b689-835b-7ee0-f8bb-b792c1430d1d"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_e183b689835b7ee0f8bbb792c1430d1d.usda@</_e183b689835b7ee0f8bbb792c1430d1d>
+    )
+    {
+    }
+}
+
+def Scope "_3f4822c1db832eeec3d15b326d765211" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "Box002_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "3f4822c1-db83-2eee-c3d1-5b326d765211"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_3f4822c1db832eeec3d15b326d765211.usda@</_3f4822c1db832eeec3d15b326d765211>
+    )
+    {
+    }
+}
+
+def Scope "_a5733f6745f50b602849f26ebf5d1682" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_AdavertisingBox_Big02"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "a5733f67-45f5-0b60-2849-f26ebf5d1682"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_a5733f6745f50b602849f26ebf5d1682.usda@</_a5733f6745f50b602849f26ebf5d1682>
+    )
+    {
+    }
+}
+
+def Scope "_2478a4614a03d048fbf6b6a383d22e50" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_AdavertisingBox_Small_03_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "2478a461-4a03-d048-fbf6-b6a383d22e50"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_2478a4614a03d048fbf6b6a383d22e50.usda@</_2478a4614a03d048fbf6b6a383d22e50>
+    )
+    {
+    }
+}
+
+def Scope "_fab3302912db8046c09c5a032fe7715c" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_AdavertisingBox_Small_03_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "fab33029-12db-8046-c09c-5a032fe7715c"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_fab3302912db8046c09c5a032fe7715c.usda@</_fab3302912db8046c09c5a032fe7715c>
+    )
+    {
+    }
+}
+
+def Scope "_6e7c2c09b3316b98249c038aee903fe3" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_AdavertisingBox_Small01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "6e7c2c09-b331-6b98-249c-038aee903fe3"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_6e7c2c09b3316b98249c038aee903fe3.usda@</_6e7c2c09b3316b98249c038aee903fe3>
+    )
+    {
+    }
+}
+
+def Scope "_243cddad50684de7b408f245799c520a" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_SunShade_Red_02"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "243cddad-5068-4de7-b408-f245799c520a"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_243cddad50684de7b408f245799c520a.usda@</_243cddad50684de7b408f245799c520a>
+    )
+    {
+    }
+}
+
+def Scope "_1ed4d31f200f6383867009401b2af95f" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Window_Black_01_Sub0_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "1ed4d31f-200f-6383-8670-09401b2af95f"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_1ed4d31f200f6383867009401b2af95f.usda@</_1ed4d31f200f6383867009401b2af95f>
+    )
+    {
+    }
+}
+
+def Scope "_28e29a81e82fb658614a5b04560afeec" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Window_Black_01_Sub1_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "28e29a81-e82f-b658-614a-5b04560afeec"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_28e29a81e82fb658614a5b04560afeec.usda@</_28e29a81e82fb658614a5b04560afeec>
+    )
+    {
+    }
+}
+
+def Scope "_4fc90f03afb6ebe02b82dada2637361e" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Window_Black_01_Sub2_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "4fc90f03-afb6-ebe0-2b82-dada2637361e"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_4fc90f03afb6ebe02b82dada2637361e.usda@</_4fc90f03afb6ebe02b82dada2637361e>
+    )
+    {
+    }
+}
+
+def Scope "_f0db2c9286ddf407fb30f6e92af7b57b" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Window_Black_03_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "f0db2c92-86dd-f407-fb30-f6e92af7b57b"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_f0db2c9286ddf407fb30f6e92af7b57b.usda@</_f0db2c9286ddf407fb30f6e92af7b57b>
+    )
+    {
+    }
+}
+
+def Scope "_2e10b8dade05a409c05a1a4986c2ea77" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Window_Black_03_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "2e10b8da-de05-a409-c05a-1a4986c2ea77"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_2e10b8dade05a409c05a1a4986c2ea77.usda@</_2e10b8dade05a409c05a1a4986c2ea77>
+    )
+    {
+    }
+}
+
+def Scope "_d456829c3713942740c9c4c6cffd29b8" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Light_Black_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "d456829c-3713-9427-40c9-c4c6cffd29b8"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_d456829c3713942740c9c4c6cffd29b8.usda@</_d456829c3713942740c9c4c6cffd29b8>
+    )
+    {
+    }
+}
+
+def Scope "_3737732714bb5be627c9d9e1dd72c225" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Door_Black_01_Sub0_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "37377327-14bb-5be6-27c9-d9e1dd72c225"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_3737732714bb5be627c9d9e1dd72c225.usda@</_3737732714bb5be627c9d9e1dd72c225>
+    )
+    {
+    }
+}
+
+def Scope "_01013ab9dc9b8e3dc0f38ba59052c596" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Door_Black_01_Sub1_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "01013ab9-dc9b-8e3d-c0f3-8ba59052c596"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_01013ab9dc9b8e3dc0f38ba59052c596.usda@</_01013ab9dc9b8e3dc0f38ba59052c596>
+    )
+    {
+    }
+}
+
+def Scope "_662aaf3b9b02d3858a3b0a7be06f0d64" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Door_Black_01_Sub2_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "662aaf3b-9b02-d385-8a3b-0a7be06f0d64"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_662aaf3b9b02d3858a3b0a7be06f0d64.usda@</_662aaf3b9b02d3858a3b0a7be06f0d64>
+    )
+    {
+    }
+}
+
+def Scope "_54f9c9f7ad38c0d0f4ea3d1f4a8882a1" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Door_Iron_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "54f9c9f7-ad38-c0d0-f4ea-3d1f4a8882a1"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_54f9c9f7ad38c0d0f4ea3d1f4a8882a1.usda@</_54f9c9f7ad38c0d0f4ea3d1f4a8882a1>
+    )
+    {
+    }
+}
+
+def Scope "_f507e40d944ec01d7898fcf0962445db" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Window_Black_02_Sub0_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "f507e40d-944e-c01d-7898-fcf0962445db"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_f507e40d944ec01d7898fcf0962445db.usda@</_f507e40d944ec01d7898fcf0962445db>
+    )
+    {
+    }
+}
+
+def Scope "_c331ad935c6e15c69fa2aeb4db044268" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Window_Black_02_Sub1_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "c331ad93-5c6e-15c6-9fa2-aeb4db044268"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_c331ad935c6e15c69fa2aeb4db044268.usda@</_c331ad935c6e15c69fa2aeb4db044268>
+    )
+    {
+    }
+}
+
+def Scope "_a41a38111bf7487ed56a2f6aab398a9a" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Window_Black_02_Sub2_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "a41a3811-1bf7-487e-d56a-2f6aab398a9a"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_a41a38111bf7487ed56a2f6aab398a9a.usda@</_a41a38111bf7487ed56a2f6aab398a9a>
+    )
+    {
+    }
+}
+
+def Scope "_7ecb3e47b4ada5f2a85a5982e7ee5aac" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Door_Green_02_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "7ecb3e47-b4ad-a5f2-a85a-5982e7ee5aac"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_7ecb3e47b4ada5f2a85a5982e7ee5aac.usda@</_7ecb3e47b4ada5f2a85a5982e7ee5aac>
+    )
+    {
+    }
+}
+
+def Scope "_a000aa0fec75f5fc9330b5224bdb05a0" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Door_Green_02_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "a000aa0f-ec75-f5fc-9330-b5224bdb05a0"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_a000aa0fec75f5fc9330b5224bdb05a0.usda@</_a000aa0fec75f5fc9330b5224bdb05a0>
+    )
+    {
+    }
+}
+
+def Scope "_5a32eb3ba897cb01037f4a79c88245fd" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Door_Blue_01_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "5a32eb3b-a897-cb01-037f-4a79c88245fd"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_5a32eb3ba897cb01037f4a79c88245fd.usda@</_5a32eb3ba897cb01037f4a79c88245fd>
+    )
+    {
+    }
+}
+
+def Scope "_84f97f73f04f9b0f3815a6d964b71af1" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Door_Blue_01_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "84f97f73-f04f-9b0f-3815-a6d964b71af1"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_84f97f73f04f9b0f3815a6d964b71af1.usda@</_84f97f73f04f9b0f3815a6d964b71af1>
+    )
+    {
+    }
+}
+
+def Scope "_6831dc7cc31752040d5b49ca33619ff4" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Window_White_01_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "6831dc7c-c317-5204-0d5b-49ca33619ff4"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_6831dc7cc31752040d5b49ca33619ff4.usda@</_6831dc7cc31752040d5b49ca33619ff4>
+    )
+    {
+    }
+}
+
+def Scope "_b6fa48349bcf020a3631a56a9f54c0f8" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Window_White_01_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "b6fa4834-9bcf-020a-3631-a56a9f54c0f8"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_b6fa48349bcf020a3631a56a9f54c0f8.usda@</_b6fa48349bcf020a3631a56a9f54c0f8>
+    )
+    {
+    }
+}
+
+def Scope "_c8adebe4e75c93fc44432fdc529a6d47" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Goal_White_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "c8adebe4-e75c-93fc-4443-2fdc529a6d47"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_c8adebe4e75c93fc44432fdc529a6d47.usda@</_c8adebe4e75c93fc44432fdc529a6d47>
+    )
+    {
+    }
+}
+
+def Scope "_46d10f2f1ea94c08394efb190bd046a4" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "Box003_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "46d10f2f-1ea9-4c08-394e-fb190bd046a4"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_46d10f2f1ea94c08394efb190bd046a4.usda@</_46d10f2f1ea94c08394efb190bd046a4>
+    )
+    {
+    }
+}
+
+def Scope "_981a9b6746711c06022417b9a7e519a8" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "Box003_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "981a9b67-4671-1c06-0224-17b9a7e519a8"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_981a9b6746711c06022417b9a7e519a8.usda@</_981a9b6746711c06022417b9a7e519a8>
+    )
+    {
+    }
+}
+
+def Scope "_46d05fe0d440f323aa65df1cca358ad8" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "Object017"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "46d05fe0-d440-f323-aa65-df1cca358ad8"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_46d05fe0d440f323aa65df1cca358ad8.usda@</_46d05fe0d440f323aa65df1cca358ad8>
+    )
+    {
+    }
+}
+
+def Scope "_75e9fd0932ca30f55acb203ced750733" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_LightBox_Black_01_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "75e9fd09-32ca-30f5-5acb-203ced750733"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_75e9fd0932ca30f55acb203ced750733.usda@</_75e9fd0932ca30f55acb203ced750733>
+    )
+    {
+    }
+}
+
+def Scope "_ab2269416a1260fb61a1cc9c4140583f" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_LightBox_Black_01_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "ab226941-6a12-60fb-61a1-cc9c4140583f"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_ab2269416a1260fb61a1cc9c4140583f.usda@</_ab2269416a1260fb61a1cc9c4140583f>
+    )
+    {
+    }
+}
+
+def Scope "_e7f6198b964954de602bc7283624c302" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Guideboard_Black_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "e7f6198b-9649-54de-602b-c7283624c302"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_e7f6198b964954de602bc7283624c302.usda@</_e7f6198b964954de602bc7283624c302>
+    )
+    {
+    }
+}
+
+def Scope "_f886bc96866afea5383a3c69edf6a058" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "Object014"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "f886bc96-866a-fea5-383a-3c69edf6a058"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_f886bc96866afea5383a3c69edf6a058.usda@</_f886bc96866afea5383a3c69edf6a058>
+    )
+    {
+    }
+}
+
+def Scope "_b12a0d9c48ea75c96bce9ca5ee2f9c75" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Car_Orange_01_Sub0_8"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "b12a0d9c-48ea-75c9-6bce-9ca5ee2f9c75"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_b12a0d9c48ea75c96bce9ca5ee2f9c75.usda@</_b12a0d9c48ea75c96bce9ca5ee2f9c75>
+    )
+    {
+    }
+}
+
+def Scope "_dc77e7ee9486c4e7326c0d762397f434" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Car_Orange_01_Sub1_8"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "dc77e7ee-9486-c4e7-326c-0d762397f434"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_dc77e7ee9486c4e7326c0d762397f434.usda@</_dc77e7ee9486c4e7326c0d762397f434>
+    )
+    {
+    }
+}
+
+def Scope "_c38495e4d2f1837fe7abc3e46737beae" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Car_Orange_01_Sub2_8"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "c38495e4-d2f1-837f-e7ab-c3e46737beae"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_c38495e4d2f1837fe7abc3e46737beae.usda@</_c38495e4d2f1837fe7abc3e46737beae>
+    )
+    {
+    }
+}
+
+def Scope "_1852a83316208d6bda697ecd33859fdb" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Car_Orange_01_Sub3_8"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "1852a833-1620-8d6b-da69-7ecd33859fdb"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_1852a83316208d6bda697ecd33859fdb.usda@</_1852a83316208d6bda697ecd33859fdb>
+    )
+    {
+    }
+}
+
+def Scope "_b282ca73f993724645380df664a7abce" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Car_Orange_01_Sub4_8"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "b282ca73-f993-7246-4538-0df664a7abce"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_b282ca73f993724645380df664a7abce.usda@</_b282ca73f993724645380df664a7abce>
+    )
+    {
+    }
+}
+
+def Scope "_795323d59d3d927f9adea138e65d1b8d" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Car_Orange_01_Sub5_8"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "795323d5-9d3d-927f-9ade-a138e65d1b8d"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_795323d59d3d927f9adea138e65d1b8d.usda@</_795323d59d3d927f9adea138e65d1b8d>
+    )
+    {
+    }
+}
+
+def Scope "_50669ea57371b121949626a2d2ead41c" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Car_Orange_01_Sub6_8"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "50669ea5-7371-b121-9496-26a2d2ead41c"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_50669ea57371b121949626a2d2ead41c.usda@</_50669ea57371b121949626a2d2ead41c>
+    )
+    {
+    }
+}
+
+def Scope "_8dff0d0a558aa6506698f1c47553807e" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Car_Orange_01_Sub7_8"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "8dff0d0a-558a-a650-6698-f1c47553807e"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_8dff0d0a558aa6506698f1c47553807e.usda@</_8dff0d0a558aa6506698f1c47553807e>
+    )
+    {
+    }
+}
+
+def Scope "_98e266d3dc2bae6ea9b1a327dd0b7cb6" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Container_Green_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "98e266d3-dc2b-ae6e-a9b1-a327dd0b7cb6"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_98e266d3dc2bae6ea9b1a327dd0b7cb6.usda@</_98e266d3dc2bae6ea9b1a327dd0b7cb6>
+    )
+    {
+    }
+}
+
+def Scope "_8ba6c71ba1d01280cb5a544cfc1f648a" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Sign_Green_01_Sub0_4"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "8ba6c71b-a1d0-1280-cb5a-544cfc1f648a"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_8ba6c71ba1d01280cb5a544cfc1f648a.usda@</_8ba6c71ba1d01280cb5a544cfc1f648a>
+    )
+    {
+    }
+}
+
+def Scope "_52096d496961fd21d0b64a4bf9c8c517" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Sign_Green_01_Sub1_4"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "52096d49-6961-fd21-d0b6-4a4bf9c8c517"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_52096d496961fd21d0b64a4bf9c8c517.usda@</_52096d496961fd21d0b64a4bf9c8c517>
+    )
+    {
+    }
+}
+
+def Scope "_3d3895e2198429dfef779815e1e3a101" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Sign_Green_01_Sub2_4"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "3d3895e2-1984-29df-ef77-9815e1e3a101"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_3d3895e2198429dfef779815e1e3a101.usda@</_3d3895e2198429dfef779815e1e3a101>
+    )
+    {
+    }
+}
+
+def Scope "_1a188241762f568bc184f5bfe950a7f7" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Sign_Green_01_Sub3_4"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "1a188241-762f-568b-c184-f5bfe950a7f7"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_1a188241762f568bc184f5bfe950a7f7.usda@</_1a188241762f568bc184f5bfe950a7f7>
+    )
+    {
+    }
+}
+
+def Scope "_38d82c5294a1d48c5c0d25b89e2356e3" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Attic_Green_01_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "38d82c52-94a1-d48c-5c0d-25b89e2356e3"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_38d82c5294a1d48c5c0d25b89e2356e3.usda@</_38d82c5294a1d48c5c0d25b89e2356e3>
+    )
+    {
+    }
+}
+
+def Scope "_e613b81acc7984826767c918321609ef" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Attic_Green_01_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "e613b81a-cc79-8482-6767-c918321609ef"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_e613b81acc7984826767c918321609ef.usda@</_e613b81acc7984826767c918321609ef>
+    )
+    {
+    }
+}
+
+def Scope "_fcc57eb478a2350bfa0163de8460ab5d" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Window_Green_01_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "fcc57eb4-78a2-350b-fa01-63de8460ab5d"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_fcc57eb478a2350bfa0163de8460ab5d.usda@</_fcc57eb478a2350bfa0163de8460ab5d>
+    )
+    {
+    }
+}
+
+def Scope "_220eeafc207a6505c16b8f7e2855f451" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Window_Green_01_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "220eeafc-207a-6505-c16b-8f7e2855f451"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_220eeafc207a6505c16b8f7e2855f451.usda@</_220eeafc207a6505c16b8f7e2855f451>
+    )
+    {
+    }
+}
+
+def Scope "_d707118a8e27c67cc63a61dc1b48cd01" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Loudspeaker_Black_01_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "d707118a-8e27-c67c-c63a-61dc1b48cd01"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_d707118a8e27c67cc63a61dc1b48cd01.usda@</_d707118a8e27c67cc63a61dc1b48cd01>
+    )
+    {
+    }
+}
+
+def Scope "_09cc85c2d6ff9672fd508d7cb77d920d" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Loudspeaker_Black_01_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "09cc85c2-d6ff-9672-fd50-8d7cb77d920d"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_09cc85c2d6ff9672fd508d7cb77d920d.usda@</_09cc85c2d6ff9672fd508d7cb77d920d>
+    )
+    {
+    }
+}
+
+def Scope "_09d56b9129f1844dcc80d9e850c0acf4" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "Box027"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "09d56b91-29f1-844d-cc80-d9e850c0acf4"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_09d56b9129f1844dcc80d9e850c0acf4.usda@</_09d56b9129f1844dcc80d9e850c0acf4>
+    )
+    {
+    }
+}
+
+def Scope "_c5f17d93b1250d52788518ef7c6af119" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "Box019"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "c5f17d93-b125-0d52-7885-18ef7c6af119"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_c5f17d93b1250d52788518ef7c6af119.usda@</_c5f17d93b1250d52788518ef7c6af119>
+    )
+    {
+    }
+}
+
+def Scope "_b327935ea58e920fd7f25afc6f16a19c" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Automat_Blue_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "b327935e-a58e-920f-d7f2-5afc6f16a19c"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_b327935ea58e920fd7f25afc6f16a19c.usda@</_b327935ea58e920fd7f25afc6f16a19c>
+    )
+    {
+    }
+}
+
+def Scope "_e67ba67b71a6b273aa10aab544c54b1f" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_T_1001_Automat_Blue_01_D"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "e67ba67b-71a6-b273-aa10-aab544c54b1f"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Texture/_e67ba67b71a6b273aa10aab544c54b1f.usda@</_e67ba67b71a6b273aa10aab544c54b1f>
+    )
+    {
+    }
+}
+
+def Scope "_e0f2ffb9ea2b8cf3a9a340c64206aa95" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_T_1001_Automat_Blue_01_MS"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "e0f2ffb9-ea2b-8cf3-a9a3-40c64206aa95"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Texture/_e0f2ffb9ea2b8cf3a9a340c64206aa95.usda@</_e0f2ffb9ea2b8cf3a9a340c64206aa95>
+    )
+    {
+    }
+}
+
+def Scope "_677af2c971a2c83378e61c29c18243d7" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_T_1001_Automat_Blue_01_N"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "677af2c9-71a2-c833-78e6-1c29c18243d7"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Texture/_677af2c971a2c83378e61c29c18243d7.usda@</_677af2c971a2c83378e61c29c18243d7>
+    )
+    {
+    }
+}
+
+def Scope "_bcc939cc66da92a9d9f25afc6f16a19c" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Automat_Blue_01_Glass"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "bcc939cc-66da-92a9-d9f2-5afc6f16a19c"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_bcc939cc66da92a9d9f25afc6f16a19c.usda@</_bcc939cc66da92a9d9f25afc6f16a19c>
+    )
+    {
+    }
+}
+
+def Scope "_3259a71d0bd9e0aa24548d3df705ba6c" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Automat_Yellow_01"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "3259a71d-0bd9-e0aa-2454-8d3df705ba6c"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_3259a71d0bd9e0aa24548d3df705ba6c.usda@</_3259a71d0bd9e0aa24548d3df705ba6c>
+    )
+    {
+    }
+}
+
+def Scope "_8242841cdb29a7b3da8c69a5ee44163b" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_T_1001_Automat_Yellow_01_D"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "8242841c-db29-a7b3-da8c-69a5ee44163b"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Texture/_8242841cdb29a7b3da8c69a5ee44163b.usda@</_8242841cdb29a7b3da8c69a5ee44163b>
+    )
+    {
+    }
+}
+
+def Scope "_85ce1b2ed1730983d87f2d69eea38507" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_T_1001_Automat_Yellow_01_MS"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "85ce1b2e-d173-0983-d87f-2d69eea38507"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Texture/_85ce1b2ed1730983d87f2d69eea38507.usda@</_85ce1b2ed1730983d87f2d69eea38507>
+    )
+    {
+    }
+}
+
+def Scope "_b35ec3b6f43c5163e8f0fa6970c957d2" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_T_1001_Automat_Yellow_01_N"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "b35ec3b6-f43c-5163-e8f0-fa6970c957d2"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Texture/_b35ec3b6f43c5163e8f0fa6970c957d2.usda@</_b35ec3b6f43c5163e8f0fa6970c957d2>
+    )
+    {
+    }
+}
+
+def Scope "_c27e710b24bee5492c548d3df705ba6c" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Automat_Yellow_01_Glass"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "c27e710b-24be-e549-2c54-8d3df705ba6c"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_c27e710b24bee5492c548d3df705ba6c.usda@</_c27e710b24bee5492c548d3df705ba6c>
+    )
+    {
+    }
+}
+
+def Scope "_c362c092a7dc1f920448543f8bd07ba3" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "Box018"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "c362c092-a7dc-1f92-0448-543f8bd07ba3"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_c362c092a7dc1f920448543f8bd07ba3.usda@</_c362c092a7dc1f920448543f8bd07ba3>
+    )
+    {
+    }
+}
+
+def Scope "_06f39eb0629c18cf2655ed547008bfc6" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_Terrain_Bowl001_2x2x2_LOD0_Sub0_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "06f39eb0-629c-18cf-2655-ed547008bfc6"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Terrain/_06f39eb0629c18cf2655ed547008bfc6.usda@</_06f39eb0629c18cf2655ed547008bfc6>
+    )
+    {
+    }
+}
+
+def Scope "_30c5d72eaabccd14c16fbf103d28b875" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_Terrain_Bowl001_2x2x2_LOD0_Sub1_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "30c5d72e-aabc-cd14-c16f-bf103d28b875"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Terrain/_30c5d72eaabccd14c16fbf103d28b875.usda@</_30c5d72eaabccd14c16fbf103d28b875>
+    )
+    {
+    }
+}
+
+def Scope "_91ffdca3c4cb5743c85d1b93135eb74b" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "SP_T_Paintcoat1_01_D"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "91ffdca3-c4cb-5743-c85d-1b93135eb74b"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Procedural/Terrain/Texture/_91ffdca3c4cb5743c85d1b93135eb74b.usda@</_91ffdca3c4cb5743c85d1b93135eb74b>
+    )
+    {
+    }
+}
+
+def Scope "_15034bb3940bef83f9af44f17788b9b8" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "SP_T_Paintcoat1_N"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "15034bb3-940b-ef83-f9af-44f17788b9b8"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Procedural/Terrain/Texture/_15034bb3940bef83f9af44f17788b9b8.usda@</_15034bb3940bef83f9af44f17788b9b8>
+    )
+    {
+    }
+}
+
+def Scope "_57ee42aced2590ac8ba73ece4d157087" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_Terrain_Bowl001_2x2x2_LOD0_Sub2_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "57ee42ac-ed25-90ac-8ba7-3ece4d157087"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Terrain/_57ee42aced2590ac8ba73ece4d157087.usda@</_57ee42aced2590ac8ba73ece4d157087>
+    )
+    {
+    }
+}
+
+def Scope "_26fb378b609fbe5372ab53f40d87f08c" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_Terrain_Bowl002_2x2x2_LOD0_Sub0_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "26fb378b-609f-be53-72ab-53f40d87f08c"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Terrain/_26fb378b609fbe5372ab53f40d87f08c.usda@</_26fb378b609fbe5372ab53f40d87f08c>
+    )
+    {
+    }
+}
+
+def Scope "_10cd7e15a8bf6b88959101b040a7f73f" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_Terrain_Bowl002_2x2x2_LOD0_Sub1_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "10cd7e15-a8bf-6b88-9591-01b040a7f73f"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Terrain/_10cd7e15a8bf6b88959101b040a7f73f.usda@</_10cd7e15a8bf6b88959101b040a7f73f>
+    )
+    {
+    }
+}
+
+def Scope "_77e6eb97ef263630df59806e309a3fcd" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_Terrain_Bowl002_2x2x2_LOD0_Sub2_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "77e6eb97-ef26-3630-df59-806e309a3fcd"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Terrain/_77e6eb97ef263630df59806e309a3fcd.usda@</_77e6eb97ef263630df59806e309a3fcd>
+    )
+    {
+    }
+}
+
+def Scope "_aff693ab562e5ddcb9e987361b68fb84" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_Terrain_Bowl003_2x2x2_LOD0_Sub0_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "aff693ab-562e-5ddc-b9e9-87361b68fb84"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Terrain/_aff693ab562e5ddcb9e987361b68fb84.usda@</_aff693ab562e5ddcb9e987361b68fb84>
+    )
+    {
+    }
+}
+
+def Scope "_99c0da359e0e88075ed3d5725648fc37" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_Terrain_Bowl003_2x2x2_LOD0_Sub1_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "99c0da35-9e0e-8807-5ed3-d5725648fc37"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Terrain/_99c0da359e0e88075ed3d5725648fc37.usda@</_99c0da359e0e88075ed3d5725648fc37>
+    )
+    {
+    }
+}
+
+def Scope "_feeb4fb7d997d5bf141b54ac267534c5" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_Terrain_Bowl003_2x2x2_LOD0_Sub2_3"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "feeb4fb7-d997-d5bf-141b-54ac267534c5"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Terrain/_feeb4fb7d997d5bf141b54ac267534c5.usda@</_feeb4fb7d997d5bf141b54ac267534c5>
+    )
+    {
+    }
+}
+
+def Scope "_14a73db6f3dbd5b8d70e807375dc053e" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "SP_M_Terrain_Water001"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "14a73db6-f3db-d5b8-d70e-807375dc053e"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Terrain/_14a73db6f3dbd5b8d70e807375dc053e.usda@</_14a73db6f3dbd5b8d70e807375dc053e>
+    )
+    {
+    }
+}
+
+def Scope "_d2670a02f1aa6403d824dbf26d39f9de" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "SWS_Caustics"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "d2670a02-f1aa-6403-d824-dbf26d39f9de"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/Resources/Textures/Scene/Ocean/_d2670a02f1aa6403d824dbf26d39f9de.usda@</_d2670a02f1aa6403d824dbf26d39f9de>
+    )
+    {
+    }
+}
+
+def Scope "_fa7235031817b253ea6ecba4b2b71aef" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "IntersectionNoise"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "fa723503-1817-b253-ea6e-cba4b2b71aef"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/Resources/Textures/Scene/Ocean/_fa7235031817b253ea6ecba4b2b71aef.usda@</_fa7235031817b253ea6ecba4b2b71aef>
+    )
+    {
+    }
+}
+
+def Scope "_3ddfb62cc0818c737b73e1219307d937" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "SWS_Foam"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "3ddfb62c-c081-8c73-7b73-e1219307d937"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/Resources/Textures/Scene/Ocean/_3ddfb62cc0818c737b73e1219307d937.usda@</_3ddfb62cc0818c737b73e1219307d937>
+    )
+    {
+    }
+}
+
+def Scope "_dfd0f4e93810d2b3497f009aa7dfad27" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "SmoothWaves"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "dfd0f4e9-3810-d2b3-497f-009aa7dfad27"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/Resources/Textures/Scene/Ocean/_dfd0f4e93810d2b3497f009aa7dfad27.usda@</_dfd0f4e93810d2b3497f009aa7dfad27>
+    )
+    {
+    }
+}
+
+def Scope "_0f7f2b10fedb7b18d089ab833a61f012" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Stair1_Straight_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "0f7f2b10-fedb-7b18-d089-ab833a61f012"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_0f7f2b10fedb7b18d089ab833a61f012.usda@</_0f7f2b10fedb7b18d089ab833a61f012>
+    )
+    {
+    }
+}
+
+def Scope "_4c980bb094dc2303db4d048d2ec0f668" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "SP_T_Concrete3_01_D"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "4c980bb0-94dc-2303-db4d-048d2ec0f668"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Procedural/Terrain/Texture/_4c980bb094dc2303db4d048d2ec0f668.usda@</_4c980bb094dc2303db4d048d2ec0f668>
+    )
+    {
+    }
+}
+
+def Scope "_9bdf69a8e36816b35bf1ffae2043b794" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "SP_T_Concrete2_MS"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "9bdf69a8-e368-16b3-5bf1-ffae2043b794"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Procedural/Terrain/Texture/_9bdf69a8e36816b35bf1ffae2043b794.usda@</_9bdf69a8e36816b35bf1ffae2043b794>
+    )
+    {
+    }
+}
+
+def Scope "_353061f7be70e903c97162a48cfaf6b4" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "SP_T_Concrete2_N"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "353061f7-be70-e903-c971-62a48cfaf6b4"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Procedural/Terrain/Texture/_353061f7be70e903c97162a48cfaf6b4.usda@</_353061f7be70e903c97162a48cfaf6b4>
+    )
+    {
+    }
+}
+
+def Scope "_d1b4bf58a6032b16ebe347239654af1e" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Stair1_Straight_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "d1b4bf58-a603-2b16-ebe3-47239654af1e"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_d1b4bf58a6032b16ebe347239654af1e.usda@</_d1b4bf58a6032b16ebe347239654af1e>
+    )
+    {
+    }
+}
+
+def Scope "_7be59116ef5b11f30818a4aa2e8e162d" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "SP_T_Concrete2_01_D"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "7be59116-ef5b-11f3-0818-a4aa2e8e162d"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Procedural/Terrain/Texture/_7be59116ef5b11f30818a4aa2e8e162d.usda@</_7be59116ef5b11f30818a4aa2e8e162d>
+    )
+    {
+    }
+}
+
+def Scope "_f9fa2e8834e113cb7b33310840c840a5" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Stair1_Corner_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "f9fa2e88-34e1-13cb-7b33-310840c840a5"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_f9fa2e8834e113cb7b33310840c840a5.usda@</_f9fa2e8834e113cb7b33310840c840a5>
+    )
+    {
+    }
+}
+
+def Scope "_2731bac06c3943c54059dda8ecfd1fa9" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_1001_Stair1_Corner_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "2731bac0-6c39-43c5-4059-dda8ecfd1fa9"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/1001/Porps/Mesh/_2731bac06c3943c54059dda8ecfd1fa9.usda@</_2731bac06c3943c54059dda8ecfd1fa9>
+    )
+    {
+    }
+}
+
+def Scope "_5e982636fbdd4c64026988b2f1023460" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_Plant_CoconutTree001_1x1x7_LOD0_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "5e982636-fbdd-4c64-0269-88b2f1023460"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Plant/CoconutTree001/_5e982636fbdd4c64026988b2f1023460.usda@</_5e982636fbdd4c64026988b2f1023460>
+    )
+    {
+    }
+}
+
+def Scope "_90c5003717041573590d1bdb24f8e9e4" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_T_Plant_CoconutTree001_T2_01_D"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "90c50037-1704-1573-590d-1bdb24f8e9e4"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Plant/CoconutTree001/Textures/_90c5003717041573590d1bdb24f8e9e4.usda@</_90c5003717041573590d1bdb24f8e9e4>
+    )
+    {
+    }
+}
+
+def Scope "_657c047590019753583a1d56638a433e" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_T_Plant_CoconutTree001_T2_N"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "657c0475-9001-9753-583a-1d56638a433e"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Plant/CoconutTree001/Textures/_657c047590019753583a1d56638a433e.usda@</_657c047590019753583a1d56638a433e>
+    )
+    {
+    }
+}
+
+def Scope "_4fdca698ade422e3c92ad6559a6e754e" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "Wind_Low_Noise"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "4fdca698-ade4-22e3-c92a-d6559a6e754e"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/Resources/WonderBox/Shader/Character/_4fdca698ade422e3c92ad6559a6e754e.usda@</_4fdca698ade422e3c92ad6559a6e754e>
+    )
+    {
+    }
+}
+
+def Scope "_c297931bcff2e6b37bca8b05793e32cb" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "AmbientWind_Noise"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "c297931b-cff2-e6b3-7bca-8b05793e32cb"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/Resources/WonderBox/Shader/Character/_c297931bcff2e6b37bca8b05793e32cb.usda@</_c297931bcff2e6b37bca8b05793e32cb>
+    )
+    {
+    }
+}
+
+def Scope "_8053b27ea3051c6a390364125d376b6c" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_Plant_CoconutTree001_1x1x7_LOD0_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "8053b27e-a305-1c6a-3903-64125d376b6c"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Plant/CoconutTree001/_8053b27ea3051c6a390364125d376b6c.usda@</_8053b27ea3051c6a390364125d376b6c>
+    )
+    {
+    }
+}
+
+def Scope "_b3706bba3e164d935913fb407df0547d" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_T_Plant_CoconutTree001_T1_01_D"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "b3706bba-3e16-4d93-5913-fb407df0547d"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Plant/CoconutTree001/Textures/_b3706bba3e164d935913fb407df0547d.usda@</_b3706bba3e164d935913fb407df0547d>
+    )
+    {
+    }
+}
+
+def Scope "_c40cb1c9fbb4da431a927f5c6d5690ab" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_T_Plant_CoconutTree001_T1_N"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "c40cb1c9-fbb4-da43-1a92-7f5c6d5690ab"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Plant/CoconutTree001/Textures/_c40cb1c9fbb4da431a927f5c6d5690ab.usda@</_c40cb1c9fbb4da431a927f5c6d5690ab>
+    )
+    {
+    }
+}
+
+def Scope "_2c5aace59efc9ccd0ad5b6c1598e2ffd" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_Plant_Grass001_1x1x1_LOD0"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "2c5aace5-9efc-9ccd-0ad5-b6c1598e2ffd"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Plant/Grass001/_2c5aace59efc9ccd0ad5b6c1598e2ffd.usda@</_2c5aace59efc9ccd0ad5b6c1598e2ffd>
+    )
+    {
+    }
+}
+
+def Scope "_02f81c54a789a5def69723492b955fe1" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_Plant_WhiteFlower_1x1x1_LOD0"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "02f81c54-a789-a5de-f697-23492b955fe1"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Plant/WhiteFlower001/_02f81c54a789a5def69723492b955fe1.usda@</_02f81c54a789a5def69723492b955fe1>
+    )
+    {
+    }
+}
+
+def Scope "_ed2a5d955e55dcb3cbdd1dda23d2437b" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_T_Plant_WhiteFlower001_T1_01_D"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "ed2a5d95-5e55-dcb3-cbdd-1dda23d2437b"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Plant/WhiteFlower001/Textures/_ed2a5d955e55dcb3cbdd1dda23d2437b.usda@</_ed2a5d955e55dcb3cbdd1dda23d2437b>
+    )
+    {
+    }
+}
+
+def Scope "_b1874da23da09cd156015e6ed44e6e4e" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_M_Plant_NestFern001_1x1x1_LOD0"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "b1874da2-3da0-9cd1-5601-5e6ed44e6e4e"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Plant/NestFern001/_b1874da23da09cd156015e6ed44e6e4e.usda@</_b1874da23da09cd156015e6ed44e6e4e>
+    )
+    {
+    }
+}
+
+def Scope "_877db17759fd42339b113e3a279ecc85" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_T_Plant_NestFern001_T1_01_D"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "877db177-59fd-4233-9b11-3e3a279ecc85"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Plant/NestFern001/Textures/_877db17759fd42339b113e3a279ecc85.usda@</_877db17759fd42339b113e3a279ecc85>
+    )
+    {
+    }
+}
+
+def Scope "_cdd2db09b4b040d3f8055673438160d3" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "S_T_Plant_NestFern001_T1_N"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "cdd2db09-b4b0-40d3-f805-5673438160d3"
+    string resourceType = "texture"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Model/Plant/NestFern001/Textures/_cdd2db09b4b040d3f8055673438160d3.usda@</_cdd2db09b4b040d3f8055673438160d3>
+    )
+    {
+    }
+}
+
+def Scope "_7c0715414d8c1147e0c77297552ddec6" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "Cube"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "7c071541-4d8c-1147-e0c7-7297552ddec6"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Library/unity default resources/_7c0715414d8c1147e0c77297552ddec6.usda@</_7c0715414d8c1147e0c77297552ddec6>
+    )
+    {
+    }
+}
+
+def Scope "_d021ff52b92a74a20f23710e7a571e68" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "SP_M_Ornament_RollingDoor1_Sub0_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "d021ff52-b92a-74a2-0f23-710e7a571e68"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Procedural/Ornament/SP_M_Ornament_RollingDoor1/_d021ff52b92a74a20f23710e7a571e68.usda@</_d021ff52b92a74a20f23710e7a571e68>
+    )
+    {
+    }
+}
+
+def Scope "_0eea6b1ae1f224ac34499daed6624164" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform string resource:name = "SP_M_Ornament_RollingDoor1_Sub1_2"
+    uniform string resource:package = "common"
+    uniform string resourceId:guid = "0eea6b1a-e1f2-24ac-3449-9daed6624164"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./assets/Assets/ArtResources/Scenes/Procedural/Ornament/SP_M_Ornament_RollingDoor1/_0eea6b1ae1f224ac34499daed6624164.usda@</_0eea6b1ae1f224ac34499daed6624164>
+    )
+    {
+    }
+}
+

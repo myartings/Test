@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_38d82c5294a1d48c5c0d25b89e2356e3"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_38d82c5294a1d48c5c0d25b89e2356e3" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_1001_Attic_Green_01_Sub0_2"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "38d82c52-94a1-d48c-5c0d-25b89e2356e3"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_38d82c5294a1d48c5c0d25b89e2356e3Deps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

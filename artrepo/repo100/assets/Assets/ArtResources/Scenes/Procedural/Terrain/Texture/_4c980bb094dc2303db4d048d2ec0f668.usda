@@ -1,0 +1,23 @@
+#usda 1.0
+(
+    defaultPrim = "_4c980bb094dc2303db4d048d2ec0f668"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_4c980bb094dc2303db4d048d2ec0f668" (
+    prepend apiSchemas = ["TextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "SP_T_Concrete3_01_D"
+    uniform token assetBase:assetType = "texture"
+    uniform string assetId:guid = "4c980bb0-94dc-2303-db4d-048d2ec0f668"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 1
+    uniform token baseTextureAsset:wrapMode = "kRepeat"
+    asset inputs:textureFilepath = @./textures/SP_T_Concrete3_01_D.png@
+}
+

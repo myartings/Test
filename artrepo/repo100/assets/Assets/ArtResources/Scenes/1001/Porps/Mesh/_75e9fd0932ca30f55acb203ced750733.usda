@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_75e9fd0932ca30f55acb203ced750733"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_75e9fd0932ca30f55acb203ced750733" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_1001_LightBox_Black_01_Sub0_2"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "75e9fd09-32ca-30f5-5acb-203ced750733"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_75e9fd0932ca30f55acb203ced750733Deps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_f9fa2e8834e113cb7b33310840c840a5"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_f9fa2e8834e113cb7b33310840c840a5" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_1001_Stair1_Corner_Sub0_2"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "f9fa2e88-34e1-13cb-7b33-310840c840a5"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_f9fa2e8834e113cb7b33310840c840a5Deps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

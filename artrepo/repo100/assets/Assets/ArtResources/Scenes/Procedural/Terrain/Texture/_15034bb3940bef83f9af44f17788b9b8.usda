@@ -1,0 +1,23 @@
+#usda 1.0
+(
+    defaultPrim = "_15034bb3940bef83f9af44f17788b9b8"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_15034bb3940bef83f9af44f17788b9b8" (
+    prepend apiSchemas = ["TextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "SP_T_Paintcoat1_N"
+    uniform token assetBase:assetType = "texture"
+    uniform string assetId:guid = "15034bb3-940b-ef83-f9af-44f17788b9b8"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 0
+    uniform token baseTextureAsset:wrapMode = "kRepeat"
+    asset inputs:textureFilepath = @./textures/SP_T_Paintcoat1_N.png@
+}
+

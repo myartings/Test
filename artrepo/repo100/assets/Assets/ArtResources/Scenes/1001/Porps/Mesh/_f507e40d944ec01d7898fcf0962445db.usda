@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_f507e40d944ec01d7898fcf0962445db"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_f507e40d944ec01d7898fcf0962445db" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_1001_Window_Black_02_Sub0_3"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "f507e40d-944e-c01d-7898-fcf0962445db"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_f507e40d944ec01d7898fcf0962445dbDeps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

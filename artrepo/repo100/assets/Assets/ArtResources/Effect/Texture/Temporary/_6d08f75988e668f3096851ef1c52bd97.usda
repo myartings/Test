@@ -1,0 +1,23 @@
+#usda 1.0
+(
+    defaultPrim = "_6d08f75988e668f3096851ef1c52bd97"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_6d08f75988e668f3096851ef1c52bd97" (
+    prepend apiSchemas = ["TextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "N5"
+    uniform token assetBase:assetType = "texture"
+    uniform string assetId:guid = "6d08f759-88e6-68f3-0968-51ef1c52bd97"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 1
+    uniform token baseTextureAsset:wrapMode = "kRepeat"
+    asset inputs:textureFilepath = @./textures/N5.png@
+}
+

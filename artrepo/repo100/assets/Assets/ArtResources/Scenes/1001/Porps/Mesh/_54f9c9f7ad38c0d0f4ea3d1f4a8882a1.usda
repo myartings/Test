@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_54f9c9f7ad38c0d0f4ea3d1f4a8882a1"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_54f9c9f7ad38c0d0f4ea3d1f4a8882a1" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_1001_Door_Iron_01"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "54f9c9f7-ad38-c0d0-f4ea-3d1f4a8882a1"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_54f9c9f7ad38c0d0f4ea3d1f4a8882a1Deps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

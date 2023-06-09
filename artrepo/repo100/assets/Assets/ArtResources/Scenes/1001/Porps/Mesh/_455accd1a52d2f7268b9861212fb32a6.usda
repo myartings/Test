@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_455accd1a52d2f7268b9861212fb32a6"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_455accd1a52d2f7268b9861212fb32a6" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_1001_Chair_Wood_01"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "455accd1-a52d-2f72-68b9-861212fb32a6"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_455accd1a52d2f7268b9861212fb32a6Deps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

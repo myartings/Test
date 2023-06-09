@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_b1874da23da09cd156015e6ed44e6e4e"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_b1874da23da09cd156015e6ed44e6e4e" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_Plant_NestFern001_1x1x1_LOD0"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "b1874da2-3da0-9cd1-5601-5e6ed44e6e4e"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_b1874da23da09cd156015e6ed44e6e4eDeps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

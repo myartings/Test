@@ -1,0 +1,23 @@
+#usda 1.0
+(
+    defaultPrim = "_cdd2db09b4b040d3f8055673438160d3"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_cdd2db09b4b040d3f8055673438160d3" (
+    prepend apiSchemas = ["TextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_T_Plant_NestFern001_T1_N"
+    uniform token assetBase:assetType = "texture"
+    uniform string assetId:guid = "cdd2db09-b4b0-40d3-f805-5673438160d3"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 0
+    uniform token baseTextureAsset:wrapMode = "kRepeat"
+    asset inputs:textureFilepath = @./textures/S_T_Plant_NestFern001_T1_N.tga@
+}
+

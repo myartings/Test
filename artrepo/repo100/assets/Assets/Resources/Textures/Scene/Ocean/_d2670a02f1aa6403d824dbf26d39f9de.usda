@@ -1,0 +1,23 @@
+#usda 1.0
+(
+    defaultPrim = "_d2670a02f1aa6403d824dbf26d39f9de"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_d2670a02f1aa6403d824dbf26d39f9de" (
+    prepend apiSchemas = ["TextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "SWS_Caustics"
+    uniform token assetBase:assetType = "texture"
+    uniform string assetId:guid = "d2670a02-f1aa-6403-d824-dbf26d39f9de"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 1
+    uniform token baseTextureAsset:wrapMode = "kRepeat"
+    asset inputs:textureFilepath = @./textures/SWS_Caustics.png@
+}
+

@@ -1,0 +1,2229 @@
+{
+    "repo_id": "repo1",
+    "repo_name": "default scene",
+    "storage_path": "",
+    "lastest_version": "Version1",
+    "access_level": 1,
+    "files": [
+        {
+            "path": "\\Art.resources.usda",
+            "hash": "803b8df1289b54c1331c9c601beecd64",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\Art.usda",
+            "hash": "8e2790aa11053b9dd8c799fa15d89961",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Effect\\Mesh\\Temporary\\_3c95e07ba55d2e530255d3e51bf6e9d0.usda",
+            "hash": "0d04a0d02c078001e6c97fe88267e26c",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Effect\\Mesh\\Temporary\\_d1fa851b08f330237d38663eaf4bd219.usda",
+            "hash": "312c9d2bbe9cf7a87bae8aa9fe04e97b",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Effect\\Mesh\\Temporary\\_3c95e07ba55d2e530255d3e51bf6e9d0Deps\\LOD0.usda",
+            "hash": "aa7a61bd8bbb5aec0c663d57e5391b7e",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Effect\\Mesh\\Temporary\\_d1fa851b08f330237d38663eaf4bd219Deps\\LOD0.usda",
+            "hash": "7f7748ecab25c3a06cac9011d09d408f",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Effect\\Texture\\Temporary\\_05c2724c5a94b213e9fe1bcfb897a248.usda",
+            "hash": "cbfc192e08355fc4c02da696e072c2a4",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Effect\\Texture\\Temporary\\_4e77f911e4bc4033fa7fd87541ea9d44.usda",
+            "hash": "77996dc116bf23d7258e43d8ae5c6ef2",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Effect\\Texture\\Temporary\\_6d08f75988e668f3096851ef1c52bd97.usda",
+            "hash": "d53f64c93188d92e7bdba3d7eb1d36a9",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Effect\\Texture\\Temporary\\_a0d1abd6cfb9e9234b1deb802e9b9433.usda",
+            "hash": "24bc073c27f3abbf17d5d3816916ad1d",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Effect\\Texture\\Temporary\\_ae5b2330ee9f22439bee40c91e020631.usda",
+            "hash": "e1af874c7d3c070dec6ba6bfbb0431b3",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_0055ec0ed9a75c6f2e833cbbd44fd2b6.usda",
+            "hash": "49f0e4b1c2baabf2cfd0ce6c42aa57eb",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_01013ab9dc9b8e3dc0f38ba59052c596.usda",
+            "hash": "29ab8d029d055f84d87450f0643a9e0c",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_09cc85c2d6ff9672fd508d7cb77d920d.usda",
+            "hash": "fde92a9d3557c8c18b0483024d920a58",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_09d56b9129f1844dcc80d9e850c0acf4.usda",
+            "hash": "3fe7e40adbbf3d163a349d908ba87023",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_0c82c9708965f590df33fbd140fdd9f8.usda",
+            "hash": "c5b461f24f6892d5c73171bdf64a3c18",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_0f7f2b10fedb7b18d089ab833a61f012.usda",
+            "hash": "7565f8b7b655efd30e94e8edb072a436",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_155bee89c0b4d67564c0185cd1392f39.usda",
+            "hash": "2dda89e7565ce9339eb2400c36d7f301",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_1852a83316208d6bda697ecd33859fdb.usda",
+            "hash": "d662dba39c7ea9da00bf59b185a3b4e9",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_18d4e4024e4dc86f906f43960e02a779.usda",
+            "hash": "0bc4d820c655de5a8be7d46a36808913",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_1a188241762f568bc184f5bfe950a7f7.usda",
+            "hash": "b35183bb46c8dabbfddb11860c68a796",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_1d4f28cf0460951920bb8ea14ffe0517.usda",
+            "hash": "4eadacc660e813aa4afc43b310f0cc1e",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_1ed4d31f200f6383867009401b2af95f.usda",
+            "hash": "77297ef5291f1f23d473cf4d9d0691e7",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_2028576078eb1a13d1dc2e2abe59483d.usda",
+            "hash": "995c03d4e65fe3820cef58f79a2e5c16",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_20c0b0aec804b2a7be4c72893047a624.usda",
+            "hash": "d96ea9d325d5b64701391a45340145d3",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_220eeafc207a6505c16b8f7e2855f451.usda",
+            "hash": "7ea657971c0bf6087aacef5da32e1fc4",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_2241ab25f65c1665278617f623726c20.usda",
+            "hash": "d323efb5f694101c1fc18596ecd82490",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_243cddad50684de7b408f245799c520a.usda",
+            "hash": "28b45faeb3b65ee566cc2764ebee894d",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_2478a4614a03d048fbf6b6a383d22e50.usda",
+            "hash": "8d112b5bea3e6b006d69351c09cd9e01",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_24e5257f4782ce4394e4e7aca64bdb29.usda",
+            "hash": "864c5dbc64edccff09dd10dccd725a66",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_2616d08d590d76d90d5375db65abc0e4.usda",
+            "hash": "7d909ebfc69b2a1eeeb72688687bece6",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_2731bac06c3943c54059dda8ecfd1fa9.usda",
+            "hash": "2e02ce4d8b0abbd89668ffdf7f879b5a",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_2776050e6c2cba1c2bb2d450c8eb7515.usda",
+            "hash": "0e6832f387a3615d7ca619fc487d68af",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_283d701fe7d245032fea436480c9210f.usda",
+            "hash": "f7d45dc250fbd81ad49b52ccd7f29b2d",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_28e29a81e82fb658614a5b04560afeec.usda",
+            "hash": "de8b2bbc0b634d1a0b2387b9e5de37a9",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_29404d0bd8c053ef6facbe3d3effd38b.usda",
+            "hash": "f286a6abcd7a4c49aa9cacbe600ffdf1",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_2b796151cc4040c2c781dce502de02a4.usda",
+            "hash": "afa567032f8ccf5389cd23be1db78d07",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_2e10b8dade05a409c05a1a4986c2ea77.usda",
+            "hash": "3206d609bbc53d115a136b32d30f1164",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_2e426ee6b68ad947adbac7678478925f.usda",
+            "hash": "b69a618f2aade62e2fbb5b2146c98e1b",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_30363c23ae5108b9e98abb001519e1ca.usda",
+            "hash": "c808c6425e5b5428b0f6b98062bd9511",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_31fd8c9b5827e3edbd017584cd8a4613.usda",
+            "hash": "f4d09d47bd57aa7d45616ff713f69110",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_3259a71d0bd9e0aa24548d3df705ba6c.usda",
+            "hash": "11a74af4a7d5a597fb5caba0f4815650",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_33361b38fb43432340a04ad1675159b0.usda",
+            "hash": "830c0836aebd62a9d014562556a6d451",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_34a21bf5bb02038d95718d5a09d5abd7.usda",
+            "hash": "8db51623f7e8945bd15590a3542b5665",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_3737732714bb5be627c9d9e1dd72c225.usda",
+            "hash": "3a1aba10a36ec5067b2cc9c2a5123fcb",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_386834356b04dcb2565284795f45ddba.usda",
+            "hash": "44d398787bfc8d8262ce67b9f90caddb",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_38d82c5294a1d48c5c0d25b89e2356e3.usda",
+            "hash": "a0eddd2ffa4c34cf02b1c1ff756b4c3c",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_397ec8932ea7d19a2b64b65ca2f23de2.usda",
+            "hash": "d9c6a4496a4c5af2b8e82cb38ca794a9",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_3d3895e2198429dfef779815e1e3a101.usda",
+            "hash": "5cd8b690297b19a4b1f473456745fd97",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_3f4822c1db832eeec3d15b326d765211.usda",
+            "hash": "d8abd1ecc1792c0b383e67ad69111217",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_418324cf154d6fa7c642f938e708b40e.usda",
+            "hash": "a8eef5a02152744395b4743086d1a79e",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_42661ccea45760211a879c1b91966f18.usda",
+            "hash": "32e7389b6c79a9856568e2f23fb69a32",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_455accd1a52d2f7268b9861212fb32a6.usda",
+            "hash": "9fa547131e0fd79dd6d487fd6a1d7329",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_46d05fe0d440f323aa65df1cca358ad8.usda",
+            "hash": "eaa48020b9051d8467dd425a9d23415b",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_46d10f2f1ea94c08394efb190bd046a4.usda",
+            "hash": "9e0f34e8ec589facb44814c33a8e918b",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_485561b916978ffd9ea57adae5f17248.usda",
+            "hash": "e7281d0706c33c3e74faa9416d41f118",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_4969fb64f11384ffe77246b9f4455aad.usda",
+            "hash": "93b3806c41fa07a67c4aeef07cba0718",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_4c52f4d38bd91d7a8d495d3b72e3ca56.usda",
+            "hash": "ee8926940b6197e0aab2b7cba65792e4",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_4fc90f03afb6ebe02b82dada2637361e.usda",
+            "hash": "d582040ba3810a0446d8a373d0450f2d",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_50669ea57371b121949626a2d2ead41c.usda",
+            "hash": "ab53c905b962ff769d2772f94fde4e49",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_50760f2767e38d2d5e7af253f06af8ff.usda",
+            "hash": "d0d765227dad7ee81d7c90c9154068f7",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_52096d496961fd21d0b64a4bf9c8c517.usda",
+            "hash": "69acd9f6d9db5d92f47b899cb423a16d",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_525c4efd0e887d3c04cbd31b377207c9.usda",
+            "hash": "adca6a57282bacbad280195d2e9a35d5",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_54f9c9f7ad38c0d0f4ea3d1f4a8882a1.usda",
+            "hash": "095206334fdfac4205888b290801e5d1",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_59376f1eb32c38cf339b70a5c88d4fb8.usda",
+            "hash": "9798ae854af3c85b544294827823cda4",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_5a32eb3ba897cb01037f4a79c88245fd.usda",
+            "hash": "303360b39d137dbb8ade17f993c7fa88",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_604fc4735b117c98ce184cf197c6c2a8.usda",
+            "hash": "a140d6939f4f43883b3ec4c25df2e182",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_60d57339a2ed4c51dc241a9dd98acdb3.usda",
+            "hash": "73ff7377f0843adfee91c88fe7e3a2af",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_63c04a82e5f141ee1943059bb9be3b89.usda",
+            "hash": "02fe9e6a99e9bb452f330ab377df44f9",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_656522b70a2b47301c6dddb6c9a618a0.usda",
+            "hash": "e79c9e41f2a304a0963729a45bcef912",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_662aaf3b9b02d3858a3b0a7be06f0d64.usda",
+            "hash": "0ba0733fcdac47f370cb4d8fb45916b8",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_6831dc7cc31752040d5b49ca33619ff4.usda",
+            "hash": "b37b48af88b8a8fb8640cd6545235ac9",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_6e7c2c09b3316b98249c038aee903fe3.usda",
+            "hash": "9d0e1ba58d4aaf4a8835863acbdea8f0",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_702462c391e532c026b33625cd161f5b.usda",
+            "hash": "4d845c2c03d0c8c6152cfea85a1346b2",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_72dd152235d7f2ff881587c6911e45ab.usda",
+            "hash": "566cdf8e0703cf155fdaac58064b7a20",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_75e9fd0932ca30f55acb203ced750733.usda",
+            "hash": "e4b4f1c89e42c645fcbe7912958d11e1",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_771b2c52c84af3d5333c78b04d1208a3.usda",
+            "hash": "cc5c33be3b768096967fe8083ab6ca57",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_795323d59d3d927f9adea138e65d1b8d.usda",
+            "hash": "76cb3eca288efde7639822df6150a307",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_7a6ae2caeae1b9e33b7c5b7270e590ce.usda",
+            "hash": "24f5dd269940c3a31a0e71367cd56f03",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_7ecb3e47b4ada5f2a85a5982e7ee5aac.usda",
+            "hash": "6985c51c6ecc6374fef1ee5a08fa7680",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_7f5fb2fa39335124004814fdb9655d1e.usda",
+            "hash": "48b9351dd847418149db3ddc19030a63",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_81da3938e91fe2747ac94eb9c60f6138.usda",
+            "hash": "80590f42897e9839504decbdcbed0946",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_84f01babe5d909aa008b45d6978a7d3a.usda",
+            "hash": "2d01b86d42890118b7a1da236ea62e0f",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_84f97f73f04f9b0f3815a6d964b71af1.usda",
+            "hash": "d6ae29cd71ba70d83b914e680ccb864e",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_87fcfb56ebf468c108f19c0564b810b4.usda",
+            "hash": "a4725034613503cdb2688a3be9717df9",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_8a54e798fe899de1a6338c9044c4763c.usda",
+            "hash": "073e277766ee2a8e5c48570d1fccae4d",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_8ba6c71ba1d01280cb5a544cfc1f648a.usda",
+            "hash": "00211ab9cb7ec670f35658894d21d8fd",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_8c97dab556502d323fa13fbb9b4758c5.usda",
+            "hash": "6eec53ca5a204e382fd678d958ceafd9",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_8dff0d0a558aa6506698f1c47553807e.usda",
+            "hash": "9b43a22e9d8d09f5d9e42128fb80db56",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_92b76069e391ecd869b4f2b2101c5e98.usda",
+            "hash": "7bc6608968f224a77eba79005f87d023",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_969ef5f14e4fdff3a5cf967a49c42d44.usda",
+            "hash": "79c9107612dd8cddca373299e90fb5d2",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_981a9b6746711c06022417b9a7e519a8.usda",
+            "hash": "ae9b75dc72e378ecff24a026f2e82a08",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_98e266d3dc2bae6ea9b1a327dd0b7cb6.usda",
+            "hash": "f6f3b30625118128d062d6012e5235b0",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_9cad8886fc8f302f21ed70bb3da33014.usda",
+            "hash": "2f85f1cd954da88576e478309ef7f96a",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_9f8fc8688f7a330d2655c8090a0d9791.usda",
+            "hash": "99f31330f6c4c2ac85f978603250058b",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_a000aa0fec75f5fc9330b5224bdb05a0.usda",
+            "hash": "54f24db74486436bb6a468d24d1842fc",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_a18ec0c166c8dff414dfafe8fc25ee19.usda",
+            "hash": "f1a1dd6191dd8a2350e93789c720380a",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_a41a38111bf7487ed56a2f6aab398a9a.usda",
+            "hash": "29dfd66565f719bee8c47a3383871d21",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_a5733f6745f50b602849f26ebf5d1682.usda",
+            "hash": "50cfe46de35878248c54ce6790ac500e",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_a9f654655e1e4874977bc0f81f760f9c.usda",
+            "hash": "7a22f0ee92c531358fc28e31b92c9dd7",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_ab2269416a1260fb61a1cc9c4140583f.usda",
+            "hash": "667ea7d294949a5c59e3c7eb8248eb22",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_ad038aa1b7f603f83111a64764f6a181.usda",
+            "hash": "875a79fcc9c649b9acdcd0861e671dc0",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_aeeff68bc93d62ce1dd9da8561234057.usda",
+            "hash": "05537a338142a1fea6a69c104e216379",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_b12a0d9c48ea75c96bce9ca5ee2f9c75.usda",
+            "hash": "38827c419db92743b6785ec9612f2d26",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_b1b424477fa2fd02ed94cc1967c6e251.usda",
+            "hash": "503314ed3edd06f85897b1cd1a851f04",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_b282ca73f993724645380df664a7abce.usda",
+            "hash": "4b1c6ddb9eee1ef32ef514799a80568e",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_b327935ea58e920fd7f25afc6f16a19c.usda",
+            "hash": "62b386cfcd26cec7486d6ab79f42724c",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_b6fa48349bcf020a3631a56a9f54c0f8.usda",
+            "hash": "95c496d90a44080d9fb9b9c57b92e1bc",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_b9b4ca0cf026a24933d667e8dc451089.usda",
+            "hash": "72d244302aff7790014db13c2852726b",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_ba05824e6ad46d19a1726a59412dbe59.usda",
+            "hash": "dd98663a4855e3f6c2c50505df43b1d2",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_bbaeb6ff52f3173e27073116659347ac.usda",
+            "hash": "5b8fe38914aa204c33fa437a239b096b",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_bcc939cc66da92a9d9f25afc6f16a19c.usda",
+            "hash": "3cd91bfb697915da4100a226b0c3fce5",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_be10ff09bdf259777decad3eeda72d12.usda",
+            "hash": "2579f5e62662d716cf8973b2c139ebb7",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_be1ee771fa351c5fe74ef63d75bf92bf.usda",
+            "hash": "67ec25717e619366adc9a429f2855210",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_c27e710b24bee5492c548d3df705ba6c.usda",
+            "hash": "a0672cd845530f8e48acfae5f8c9f9a7",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_c331ad935c6e15c69fa2aeb4db044268.usda",
+            "hash": "c316f5177d1c7b518c648d03b2fc58fc",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_c362c092a7dc1f920448543f8bd07ba3.usda",
+            "hash": "fed6af0f04e723b5baf3e0e8666e2f84",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_c38495e4d2f1837fe7abc3e46737beae.usda",
+            "hash": "22c769a2d7a504696c4ec9b40440a1e1",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_c4129239e81f9c68f7af2a0da1110f45.usda",
+            "hash": "50fc5a170adc088a9567128464d66ed5",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_c5f17d93b1250d52788518ef7c6af119.usda",
+            "hash": "2a5030a4de2b4ff8f21700c4d44c472b",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_c7c558beb6be6112b1e92a3690b41063.usda",
+            "hash": "e72e0ad572230fa0089c7cc4bc6ac78a",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_c8adebe4e75c93fc44432fdc529a6d47.usda",
+            "hash": "bf30ef1e1abdc058156705b1236cfb04",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_cf38822df74fe3d4c6c986bd7a58e676.usda",
+            "hash": "8885d2fd04f72ba591922af2a741aa04",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_d1b4bf58a6032b16ebe347239654af1e.usda",
+            "hash": "8d19f0d9388740c8fdb0bc1564fe6c25",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_d456829c3713942740c9c4c6cffd29b8.usda",
+            "hash": "1b77b92040d26aec0944706ed46975f1",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_d707118a8e27c67cc63a61dc1b48cd01.usda",
+            "hash": "3b8953487f7fd223485b283c37fae511",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_dc77e7ee9486c4e7326c0d762397f434.usda",
+            "hash": "58d26cd1d0d8230fbcff3f1672efb0c4",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_de9e7846817f0c6115e9d01b787a8dba.usda",
+            "hash": "191e38094eca800f10e4cc82ca4c9b26",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_e183b689835b7ee0f8bbb792c1430d1d.usda",
+            "hash": "c424e542a1e1ad751ecd77a68803244e",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_e613b81acc7984826767c918321609ef.usda",
+            "hash": "a8690edae015e69588b82c357da7b6c0",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_e61660493440b86172ed74155df8170b.usda",
+            "hash": "6c1e0e5d622aca33639f6a0c5e32d181",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_e6a3a07d33dc8cbc6d3868d9f37082b6.usda",
+            "hash": "85e0934ebba572050bb4ebee776a76fa",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_e7f6198b964954de602bc7283624c302.usda",
+            "hash": "442e2334b4552d4ef4a482f049c0ffec",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_e829e93212a004cbf7dbc1d30cadc163.usda",
+            "hash": "4162812df034964e37915b3a6a3c0c55",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_edfd8f70a39b132d7bcaa671cb6406bc.usda",
+            "hash": "b5ed229cb8442c57caccef5ebd3d5dc5",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_eefda86bf68958b7d2e057a0b92cbec6.usda",
+            "hash": "d0a0607639bdaa4e587f4bf0ea1ba6da",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_ef3618d300ffb3e3866b992461bf191f.usda",
+            "hash": "24a54e136883597caae73ab4d471cc0b",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_f0db2c9286ddf407fb30f6e92af7b57b.usda",
+            "hash": "013168c30be977783b3a3163c97e2659",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_f507e40d944ec01d7898fcf0962445db.usda",
+            "hash": "919e95b384b290b87e7a592093ac0b42",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_f886bc96866afea5383a3c69edf6a058.usda",
+            "hash": "557aade95837a31dd5337c3f5e6d94bb",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_f8a9721cd3c934e01cebfa2dd20a6e4d.usda",
+            "hash": "1c21b4e8bee0e652561eb3ce0db239ad",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_f9fa2e8834e113cb7b33310840c840a5.usda",
+            "hash": "7d7edbdee3e3766d6e7e7edda60a057c",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_fab3302912db8046c09c5a032fe7715c.usda",
+            "hash": "b1efdb8d78b15eecc898965f2a9a264f",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_fbe6084f3a4dd5b0d02d0d3ba75d2a66.usda",
+            "hash": "500d3a34070c82479d51f892bc9b8763",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_fcc57eb478a2350bfa0163de8460ab5d.usda",
+            "hash": "97f315cbc29485e4fe5415605431a845",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_fe0b24e690dce2a985269e299c72f928.usda",
+            "hash": "03639ffd755a9dd19c41a7a704a4e398",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_fee3c32820334a1deab6c28a126c1731.usda",
+            "hash": "afddc2a95ef72b76c0356da08b1a83c7",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_0055ec0ed9a75c6f2e833cbbd44fd2b6Deps\\LOD0.usda",
+            "hash": "50561f1537db7a11fe36f7cf7acc420e",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_01013ab9dc9b8e3dc0f38ba59052c596Deps\\LOD0.usda",
+            "hash": "6a0bf559f0fa8601536f7868a8998c6d",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_09cc85c2d6ff9672fd508d7cb77d920dDeps\\LOD0.usda",
+            "hash": "2cb1283bff19995c96e8bc302e649fe8",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_09d56b9129f1844dcc80d9e850c0acf4Deps\\LOD0.usda",
+            "hash": "899ab59efba9ca831eb0795407615855",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_0c82c9708965f590df33fbd140fdd9f8Deps\\LOD0.usda",
+            "hash": "25d435f7168a0e5d40771ddff29b35cd",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_0f7f2b10fedb7b18d089ab833a61f012Deps\\LOD0.usda",
+            "hash": "fcd239055d9e20c44ca6a31ff0178f69",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_155bee89c0b4d67564c0185cd1392f39Deps\\LOD0.usda",
+            "hash": "76f34e6a58ab31eab24d9bb3a855bed7",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_1852a83316208d6bda697ecd33859fdbDeps\\LOD0.usda",
+            "hash": "36e87344df45adc865eb66d39885a3b2",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_18d4e4024e4dc86f906f43960e02a779Deps\\LOD0.usda",
+            "hash": "010a923e820c3fd283468df6abd73920",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_1a188241762f568bc184f5bfe950a7f7Deps\\LOD0.usda",
+            "hash": "dccd84c3f94fb87a546a5621e4d4c79f",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_1d4f28cf0460951920bb8ea14ffe0517Deps\\LOD0.usda",
+            "hash": "5442a2d6edaed9d0b84c5e1b48bfdba0",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_1ed4d31f200f6383867009401b2af95fDeps\\LOD0.usda",
+            "hash": "e0292817178640240689b9be5d4dd688",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_2028576078eb1a13d1dc2e2abe59483dDeps\\LOD0.usda",
+            "hash": "52f5d05389bee1765d7df198ed0ac8d8",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_20c0b0aec804b2a7be4c72893047a624Deps\\LOD0.usda",
+            "hash": "e5e4d7a592a8ad247f8b53a2864ace2e",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_220eeafc207a6505c16b8f7e2855f451Deps\\LOD0.usda",
+            "hash": "a333e448bedbade9baab6b1b79093539",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_2241ab25f65c1665278617f623726c20Deps\\LOD0.usda",
+            "hash": "f1926b0a02618dc23a32840407d5ed91",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_243cddad50684de7b408f245799c520aDeps\\LOD0.usda",
+            "hash": "c6daba39441a0588fb552b784a1a4342",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_2478a4614a03d048fbf6b6a383d22e50Deps\\LOD0.usda",
+            "hash": "8f8468735ac862b2d2e88a487ac61a16",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_24e5257f4782ce4394e4e7aca64bdb29Deps\\LOD0.usda",
+            "hash": "9cca8e865559243366f3a3c9dec7fc46",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_2616d08d590d76d90d5375db65abc0e4Deps\\LOD0.usda",
+            "hash": "50bd16e76dfc627a2c4b821958027d17",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_2731bac06c3943c54059dda8ecfd1fa9Deps\\LOD0.usda",
+            "hash": "bda61946bb4d4110de4374014e464c0a",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_2776050e6c2cba1c2bb2d450c8eb7515Deps\\LOD0.usda",
+            "hash": "5fc9a1eca791809ed5a67b7d597f683c",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_283d701fe7d245032fea436480c9210fDeps\\LOD0.usda",
+            "hash": "eae7da5526f23ccf66332c1520db1d51",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_28e29a81e82fb658614a5b04560afeecDeps\\LOD0.usda",
+            "hash": "7c51e6311987b09b62470cc8dcfcaefb",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_29404d0bd8c053ef6facbe3d3effd38bDeps\\LOD0.usda",
+            "hash": "85c4097739fc125499d6a9048d9f4f4e",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_2b796151cc4040c2c781dce502de02a4Deps\\LOD0.usda",
+            "hash": "c2c0dab68ebd3d06bdca2ff00626e6df",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_2e10b8dade05a409c05a1a4986c2ea77Deps\\LOD0.usda",
+            "hash": "f0cde958b1811f18f691e1b5bd1536bb",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_2e426ee6b68ad947adbac7678478925fDeps\\LOD0.usda",
+            "hash": "42f5d9cd17db662c08faa49dbb0f4d27",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_30363c23ae5108b9e98abb001519e1caDeps\\LOD0.usda",
+            "hash": "39b00430d17bb3fe3c52c819623c7c34",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_31fd8c9b5827e3edbd017584cd8a4613Deps\\LOD0.usda",
+            "hash": "9e7fcd67ccc8aa7cef3fb6bc546ee4ff",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_3259a71d0bd9e0aa24548d3df705ba6cDeps\\LOD0.usda",
+            "hash": "0631f060170777c2b94522f95d0e077a",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_33361b38fb43432340a04ad1675159b0Deps\\LOD0.usda",
+            "hash": "e2e7590571cd3ed59ac1af20317eeb8b",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_34a21bf5bb02038d95718d5a09d5abd7Deps\\LOD0.usda",
+            "hash": "4a20dd5481efed0c7627a4ece2002742",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_3737732714bb5be627c9d9e1dd72c225Deps\\LOD0.usda",
+            "hash": "110b67f0cadae39621cd7cd5b436362a",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_386834356b04dcb2565284795f45ddbaDeps\\LOD0.usda",
+            "hash": "c20b84ef7c61cef3c88fbf50517e0b37",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_38d82c5294a1d48c5c0d25b89e2356e3Deps\\LOD0.usda",
+            "hash": "836827f225f1a398a6a7d195d6fa01c8",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_397ec8932ea7d19a2b64b65ca2f23de2Deps\\LOD0.usda",
+            "hash": "4ada19a9981ae6425078e11aa87f113a",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_3d3895e2198429dfef779815e1e3a101Deps\\LOD0.usda",
+            "hash": "f1cde5e43f097e91545c8c76eb9bc5d8",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_3f4822c1db832eeec3d15b326d765211Deps\\LOD0.usda",
+            "hash": "b74471ee3a70603dc05c3adf13bfa5c9",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_418324cf154d6fa7c642f938e708b40eDeps\\LOD0.usda",
+            "hash": "94db37dc9972e00649841ebcb83f09eb",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_42661ccea45760211a879c1b91966f18Deps\\LOD0.usda",
+            "hash": "e0c86a944ba0876415a77057ce0fddef",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_455accd1a52d2f7268b9861212fb32a6Deps\\LOD0.usda",
+            "hash": "8af63473b51a5c7be6aad27dfb0e1dd6",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_46d05fe0d440f323aa65df1cca358ad8Deps\\LOD0.usda",
+            "hash": "6e630af06511ae62ab9960c82c017f75",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_46d10f2f1ea94c08394efb190bd046a4Deps\\LOD0.usda",
+            "hash": "dcdc80b3c86be91f38103db281ebecf8",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_485561b916978ffd9ea57adae5f17248Deps\\LOD0.usda",
+            "hash": "d9517b2503984cc0fb0d7753b2a09881",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_4969fb64f11384ffe77246b9f4455aadDeps\\LOD0.usda",
+            "hash": "d3430623d6ceafcd09d03ad6a45f987b",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_4c52f4d38bd91d7a8d495d3b72e3ca56Deps\\LOD0.usda",
+            "hash": "9226e4affdc01f4b8c1eedc4941b99c7",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_4fc90f03afb6ebe02b82dada2637361eDeps\\LOD0.usda",
+            "hash": "3703d01e13a317a07fa320e35d470bd7",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_50669ea57371b121949626a2d2ead41cDeps\\LOD0.usda",
+            "hash": "1fb540af4e0f56269ac85dc2479441b7",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_50760f2767e38d2d5e7af253f06af8ffDeps\\LOD0.usda",
+            "hash": "6ce75a9cabefcfff615232432b6f68fc",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_52096d496961fd21d0b64a4bf9c8c517Deps\\LOD0.usda",
+            "hash": "c2e5900167c5971749fb1f61b2b9410a",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_525c4efd0e887d3c04cbd31b377207c9Deps\\LOD0.usda",
+            "hash": "343fd2c5a303ea0b22cf383fa36f9019",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_54f9c9f7ad38c0d0f4ea3d1f4a8882a1Deps\\LOD0.usda",
+            "hash": "6b852fe95d8337aeafa53d168ea8e5e8",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_59376f1eb32c38cf339b70a5c88d4fb8Deps\\LOD0.usda",
+            "hash": "cf0a8820932b9cc58efdfc741eb94d5d",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_5a32eb3ba897cb01037f4a79c88245fdDeps\\LOD0.usda",
+            "hash": "88fd4de083050c6a186e5851e494fa9f",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_604fc4735b117c98ce184cf197c6c2a8Deps\\LOD0.usda",
+            "hash": "e7f6abac7b1bfdd3ba0852cfa2f343a3",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_60d57339a2ed4c51dc241a9dd98acdb3Deps\\LOD0.usda",
+            "hash": "0b6cd805fb960c09d4a730294defa3f5",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_63c04a82e5f141ee1943059bb9be3b89Deps\\LOD0.usda",
+            "hash": "8aac1b546b0e73b79186aa9952e1b5b1",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_656522b70a2b47301c6dddb6c9a618a0Deps\\LOD0.usda",
+            "hash": "6219828c584ba7bc318579eaa4acc624",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_662aaf3b9b02d3858a3b0a7be06f0d64Deps\\LOD0.usda",
+            "hash": "8c40c3b69b8c86e302a0221a5ae204c3",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_6831dc7cc31752040d5b49ca33619ff4Deps\\LOD0.usda",
+            "hash": "7f068f6b9e49450f5cb57b826f194347",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_6e7c2c09b3316b98249c038aee903fe3Deps\\LOD0.usda",
+            "hash": "3ed4e5e5ad13c03bc2c3dacceca0a6a2",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_702462c391e532c026b33625cd161f5bDeps\\LOD0.usda",
+            "hash": "44ce5447e06c3145c6c363c495d2b1fc",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_72dd152235d7f2ff881587c6911e45abDeps\\LOD0.usda",
+            "hash": "fe1276fe30c403a0d2e72c55c221e078",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_75e9fd0932ca30f55acb203ced750733Deps\\LOD0.usda",
+            "hash": "f3911fd653611af5562dc12bc94a5511",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_771b2c52c84af3d5333c78b04d1208a3Deps\\LOD0.usda",
+            "hash": "b8b57c264a385d2f778aad2543aea024",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_795323d59d3d927f9adea138e65d1b8dDeps\\LOD0.usda",
+            "hash": "f5891092e301bfafb70047ef40b96ce3",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_7a6ae2caeae1b9e33b7c5b7270e590ceDeps\\LOD0.usda",
+            "hash": "1bcc773f2f19fc5fa78bb5ab850259e8",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_7ecb3e47b4ada5f2a85a5982e7ee5aacDeps\\LOD0.usda",
+            "hash": "cffe9e33873756c4b69106e00534c80b",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_7f5fb2fa39335124004814fdb9655d1eDeps\\LOD0.usda",
+            "hash": "bf40d576bee48f229cdcdb4b0923c8a3",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_81da3938e91fe2747ac94eb9c60f6138Deps\\LOD0.usda",
+            "hash": "fbbd1341ab296609c013ae9768d81495",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_84f01babe5d909aa008b45d6978a7d3aDeps\\LOD0.usda",
+            "hash": "dc3cce8919a58f83f5c277cc631078fd",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_84f97f73f04f9b0f3815a6d964b71af1Deps\\LOD0.usda",
+            "hash": "500d327a21f9c01e42c77982f737304e",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_87fcfb56ebf468c108f19c0564b810b4Deps\\LOD0.usda",
+            "hash": "f78b706e592b6ff8a5f4a1b432accb29",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_8a54e798fe899de1a6338c9044c4763cDeps\\LOD0.usda",
+            "hash": "d35d57c5fb08cc856780bf7967520b50",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_8ba6c71ba1d01280cb5a544cfc1f648aDeps\\LOD0.usda",
+            "hash": "73713cfa7a74f16d4121b564a2d6e075",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_8c97dab556502d323fa13fbb9b4758c5Deps\\LOD0.usda",
+            "hash": "3d284ba8437b83700e17d72a47873899",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_8dff0d0a558aa6506698f1c47553807eDeps\\LOD0.usda",
+            "hash": "a14dce068a3201ec513f999373315fc7",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_92b76069e391ecd869b4f2b2101c5e98Deps\\LOD0.usda",
+            "hash": "dd628ae62a85b0d6457f36e446da768f",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_969ef5f14e4fdff3a5cf967a49c42d44Deps\\LOD0.usda",
+            "hash": "e0dd36c97a63c5441345cc46dd5ee682",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_981a9b6746711c06022417b9a7e519a8Deps\\LOD0.usda",
+            "hash": "2e92e2c9853424e56a31dae4bd69f835",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_98e266d3dc2bae6ea9b1a327dd0b7cb6Deps\\LOD0.usda",
+            "hash": "4f4e5c334dde1686e3b73380e49750f1",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_9cad8886fc8f302f21ed70bb3da33014Deps\\LOD0.usda",
+            "hash": "0d35549db0ff86e4edd8a443941e8b88",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_9f8fc8688f7a330d2655c8090a0d9791Deps\\LOD0.usda",
+            "hash": "8f6a79828c665ccc4a4932d974f5f295",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_a000aa0fec75f5fc9330b5224bdb05a0Deps\\LOD0.usda",
+            "hash": "e2fbdddde3839fedf05fcef73ee85c5b",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_a18ec0c166c8dff414dfafe8fc25ee19Deps\\LOD0.usda",
+            "hash": "f695da0ab417331bc9ab2e13906c972a",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_a41a38111bf7487ed56a2f6aab398a9aDeps\\LOD0.usda",
+            "hash": "ac91c388d6b414406ddae4fc2b76373d",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_a5733f6745f50b602849f26ebf5d1682Deps\\LOD0.usda",
+            "hash": "bf8c1c6dd37e8128c3b33f6cc7f59d9e",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_a9f654655e1e4874977bc0f81f760f9cDeps\\LOD0.usda",
+            "hash": "272918b98a8bdf8dba0a44361313a53a",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_ab2269416a1260fb61a1cc9c4140583fDeps\\LOD0.usda",
+            "hash": "4e4fbbd44a3099cbe2524305d7322e1d",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_ad038aa1b7f603f83111a64764f6a181Deps\\LOD0.usda",
+            "hash": "bf4e4b46bd789fb7cd228151bc9c56ec",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_aeeff68bc93d62ce1dd9da8561234057Deps\\LOD0.usda",
+            "hash": "3f1c8f01a4c667c519b30d653ea4ff5f",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_b12a0d9c48ea75c96bce9ca5ee2f9c75Deps\\LOD0.usda",
+            "hash": "7782e3753bcdceb9c50ae40a5fdb150f",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_b1b424477fa2fd02ed94cc1967c6e251Deps\\LOD0.usda",
+            "hash": "6dd9eacce6720a1013c8a0f6103b9a0f",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_b282ca73f993724645380df664a7abceDeps\\LOD0.usda",
+            "hash": "2a306df14e046ed96378c79cc971b9d5",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_b327935ea58e920fd7f25afc6f16a19cDeps\\LOD0.usda",
+            "hash": "37257ca6361d9e821620b8fa94ef171b",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_b6fa48349bcf020a3631a56a9f54c0f8Deps\\LOD0.usda",
+            "hash": "17daa5bd9e4d064f9d60e979b3d2d5d6",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_b9b4ca0cf026a24933d667e8dc451089Deps\\LOD0.usda",
+            "hash": "27624ff5e4360c78451f072a0e03da54",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_ba05824e6ad46d19a1726a59412dbe59Deps\\LOD0.usda",
+            "hash": "cf15921aca29eecc6353ce67eecf27be",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_bbaeb6ff52f3173e27073116659347acDeps\\LOD0.usda",
+            "hash": "8eafeaa5bd76af189425d2dfe91411b8",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_bcc939cc66da92a9d9f25afc6f16a19cDeps\\LOD0.usda",
+            "hash": "3c0e9cf98870113c0126c9413079de11",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_be10ff09bdf259777decad3eeda72d12Deps\\LOD0.usda",
+            "hash": "bfc8082f24a7081a6cc7c875dd2a9da4",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_be1ee771fa351c5fe74ef63d75bf92bfDeps\\LOD0.usda",
+            "hash": "3d4750ff96889904edd134d2e3213cdf",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_c27e710b24bee5492c548d3df705ba6cDeps\\LOD0.usda",
+            "hash": "2c2e5d5b251aa1febd06ad75eb4c1e21",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_c331ad935c6e15c69fa2aeb4db044268Deps\\LOD0.usda",
+            "hash": "31f56f8a58c21373e758bedebb68ec92",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_c362c092a7dc1f920448543f8bd07ba3Deps\\LOD0.usda",
+            "hash": "29d7bb7978ccfa5479af1d9ea4f33282",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_c38495e4d2f1837fe7abc3e46737beaeDeps\\LOD0.usda",
+            "hash": "060164e1fad2cdbdda233785b59ae4ce",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_c4129239e81f9c68f7af2a0da1110f45Deps\\LOD0.usda",
+            "hash": "b2fef7b8f3b8ce0a344f60b7bd3483d4",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_c5f17d93b1250d52788518ef7c6af119Deps\\LOD0.usda",
+            "hash": "cb9b3056ee5534398ec2db9c490c8aca",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_c7c558beb6be6112b1e92a3690b41063Deps\\LOD0.usda",
+            "hash": "7097d02f617bee2a8e402e7ee12f5d4c",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_c8adebe4e75c93fc44432fdc529a6d47Deps\\LOD0.usda",
+            "hash": "ce06a119906f5a2e8c6cf1e31f5c8017",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_cf38822df74fe3d4c6c986bd7a58e676Deps\\LOD0.usda",
+            "hash": "b0a29476e94672f81d2354afe8fd4918",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_d1b4bf58a6032b16ebe347239654af1eDeps\\LOD0.usda",
+            "hash": "15d6c0097e583247b426e1e430c4d859",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_d456829c3713942740c9c4c6cffd29b8Deps\\LOD0.usda",
+            "hash": "83c62ff2930d282f9237fe6430f76c6e",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_d707118a8e27c67cc63a61dc1b48cd01Deps\\LOD0.usda",
+            "hash": "2320bc6e84008409180396db7aee9516",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_dc77e7ee9486c4e7326c0d762397f434Deps\\LOD0.usda",
+            "hash": "6dae7fc29fbd8dc50457ee96c5a6159b",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_de9e7846817f0c6115e9d01b787a8dbaDeps\\LOD0.usda",
+            "hash": "7a16ca5a210483d0ca44b37a672c7487",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_e183b689835b7ee0f8bbb792c1430d1dDeps\\LOD0.usda",
+            "hash": "709b55487934223787235b25b0ef7218",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_e613b81acc7984826767c918321609efDeps\\LOD0.usda",
+            "hash": "67c34a54da99033e3dc534690d99b708",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_e61660493440b86172ed74155df8170bDeps\\LOD0.usda",
+            "hash": "6cba965a63e87d7182ee048e97ee4400",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_e6a3a07d33dc8cbc6d3868d9f37082b6Deps\\LOD0.usda",
+            "hash": "af608e6ea18ff435c2531521e98e4b7f",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_e7f6198b964954de602bc7283624c302Deps\\LOD0.usda",
+            "hash": "6d2256f759492e283a31af08184e94f3",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_e829e93212a004cbf7dbc1d30cadc163Deps\\LOD0.usda",
+            "hash": "dd4499e1799ad40c0f847442fc848aea",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_edfd8f70a39b132d7bcaa671cb6406bcDeps\\LOD0.usda",
+            "hash": "23cffe756c408694dc26f08291b15438",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_eefda86bf68958b7d2e057a0b92cbec6Deps\\LOD0.usda",
+            "hash": "819f0b2b631e11fee9afa76bcd84991e",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_ef3618d300ffb3e3866b992461bf191fDeps\\LOD0.usda",
+            "hash": "19dcb6615fbeb0335b5c847e0c59766c",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_f0db2c9286ddf407fb30f6e92af7b57bDeps\\LOD0.usda",
+            "hash": "17bdfba5ad9b624bc80a6016f6e11e3f",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_f507e40d944ec01d7898fcf0962445dbDeps\\LOD0.usda",
+            "hash": "a0199c38fa381d5233f2e6f9a2078d11",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_f886bc96866afea5383a3c69edf6a058Deps\\LOD0.usda",
+            "hash": "8aae8caf17b77e70a0cf8e370d049a63",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_f8a9721cd3c934e01cebfa2dd20a6e4dDeps\\LOD0.usda",
+            "hash": "5bbdd0aaae412e4122d2f34362e21001",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_f9fa2e8834e113cb7b33310840c840a5Deps\\LOD0.usda",
+            "hash": "d0023d125cc12669335c336e0370721b",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_fab3302912db8046c09c5a032fe7715cDeps\\LOD0.usda",
+            "hash": "b3ec7b0840838eb63f2c4ff235fe9e5e",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_fbe6084f3a4dd5b0d02d0d3ba75d2a66Deps\\LOD0.usda",
+            "hash": "bdf392d35fe1975b44cdbf4e7fcbaee9",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_fcc57eb478a2350bfa0163de8460ab5dDeps\\LOD0.usda",
+            "hash": "5631bc5f38e82ed53903ec6b5ed63082",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_fe0b24e690dce2a985269e299c72f928Deps\\LOD0.usda",
+            "hash": "0b76bc52a606eb2323ec20f0dd919a3e",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Mesh\\_fee3c32820334a1deab6c28a126c1731Deps\\LOD0.usda",
+            "hash": "0474a77444ae779866faaf8e15b844b4",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Texture\\_21c0ffef2d0a8f0349298884e0a2d394.usda",
+            "hash": "9d48c39eb0d49b9cc350dd1a2f77f5f6",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Texture\\_4b2cf5efdb009aa34910df28415b53c8.usda",
+            "hash": "9fc295c720828aa084148eaf33c2608c",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Texture\\_677af2c971a2c83378e61c29c18243d7.usda",
+            "hash": "6c7066b161b9d88bfc12dfeec2234eef",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Texture\\_8242841cdb29a7b3da8c69a5ee44163b.usda",
+            "hash": "b8d03d65319242040193c7abf833ac56",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Texture\\_85ce1b2ed1730983d87f2d69eea38507.usda",
+            "hash": "2f32643e1e4ad832850f5beee77dad7f",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Texture\\_96baf3f15110e6f31ba3701920062f31.usda",
+            "hash": "1e069218358b547fc96ead930ac57c69",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Texture\\_a9e14c38b225cfb3187f24bf32f434a6.usda",
+            "hash": "714674d517c8bd8b6e405fda3ffa5a92",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Texture\\_abb7d4c434346a1388ad882de168da5f.usda",
+            "hash": "4cb0f1b8bfde7fc4bc911de13a1944f5",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Texture\\_b35ec3b6f43c5163e8f0fa6970c957d2.usda",
+            "hash": "8a589dc5261ba4bb76ab54c87db87279",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Texture\\_e0f2ffb9ea2b8cf3a9a340c64206aa95.usda",
+            "hash": "7ebbe119ea3b76e1eef737f147ec109f",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\1001\\Porps\\Texture\\_e67ba67b71a6b273aa10aab544c54b1f.usda",
+            "hash": "65c6e93a54ffe8f1dacdad91b72dc9ce",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Ornament\\S_M_Building_Window003_1x1x2\\_881d33ba32529d45d636f45c898d9e10.usda",
+            "hash": "4b8f683318f392c5bc5857f60874f207",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Ornament\\S_M_Building_Window003_1x1x2\\_d900efa6bdeb15267bc427c6b4905151.usda",
+            "hash": "a3ed0a8de574fc2c0e070393d977466c",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Ornament\\S_M_Building_Window003_1x1x2\\_ef36a63875cbc0fd9cfe7582f9b056e2.usda",
+            "hash": "78089ba238b7eb81e09dedb9b5c8bf7b",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Ornament\\S_M_Building_Window003_1x1x2\\Texture\\_1c16128f9b9afcc30a252a24fee58570.usda",
+            "hash": "6c952fa62724a80c0ca97727d5edcd07",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Ornament\\S_M_Building_Window003_1x1x2\\Texture\\_6fec761b21434d73d8f2559903adcde7.usda",
+            "hash": "9a39be6e36be064c0573d9e870061f97",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Ornament\\S_M_Building_Window003_1x1x2\\Texture\\_f34275392f2816936b80efaf515ec0e4.usda",
+            "hash": "ec593c5ead4a7d80caf74532c78c05b6",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Ornament\\S_M_Building_Window003_1x1x2\\Texture\\_ff10c90544e6d0530944c678fba6c21e.usda",
+            "hash": "33597c1721146f45545fcf924c43fc6d",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Ornament\\S_M_Building_Window003_1x1x2\\_881d33ba32529d45d636f45c898d9e10Deps\\LOD0.usda",
+            "hash": "ebf7f0ac09ace16d4c481bdc8d261779",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Ornament\\S_M_Building_Window003_1x1x2\\_d900efa6bdeb15267bc427c6b4905151Deps\\LOD0.usda",
+            "hash": "3452725a3a18716beb8e93e517db9609",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Ornament\\S_M_Building_Window003_1x1x2\\_ef36a63875cbc0fd9cfe7582f9b056e2Deps\\LOD0.usda",
+            "hash": "7d524217671540a435b91c31e7076705",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Ornament\\S_M_Ornament_Door001_2x1x2\\_309eb1e949879a6ab180bc7d96327826.usda",
+            "hash": "dd3665391b7fa11d03e92faa029d782e",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Ornament\\S_M_Ornament_Door001_2x1x2\\_57b5246b0e1ec7d2fb483da3e60fb0d4.usda",
+            "hash": "c60d85d1b2ea021c904af13db9218751",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Ornament\\S_M_Ornament_Door001_2x1x2\\_61836df5c63e12091c726fe7ab2fb767.usda",
+            "hash": "99bd1a7a308f78207346a9b3de446061",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Ornament\\S_M_Ornament_Door001_2x1x2\\Textures\\_22e8486a56d6a9530a8dbec5db4b3d9f.usda",
+            "hash": "fb4476be859cccd5d891b275eae44891",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Ornament\\S_M_Ornament_Door001_2x1x2\\Textures\\_96f2c56261ebe3638a42716855aaa11f.usda",
+            "hash": "a7df0a5e45f149eba6b2af98ab5c4d1e",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Ornament\\S_M_Ornament_Door001_2x1x2\\Textures\\_9cbbc3e1aee4e4330a195996221c4e4f.usda",
+            "hash": "7990dc1caabd9bdd694bea973f33fa3f",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Ornament\\S_M_Ornament_Door001_2x1x2\\Textures\\_ca74ed675477d723da01f2e8305246a9.usda",
+            "hash": "2a01d36571ae11099c129775bac0007d",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Ornament\\S_M_Ornament_Door001_2x1x2\\_309eb1e949879a6ab180bc7d96327826Deps\\LOD0.usda",
+            "hash": "2b15a1692c50dec1958e94b544368f09",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Ornament\\S_M_Ornament_Door001_2x1x2\\_57b5246b0e1ec7d2fb483da3e60fb0d4Deps\\LOD0.usda",
+            "hash": "3c6283601049fb4d3c9951ba8b3558a5",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Ornament\\S_M_Ornament_Door001_2x1x2\\_61836df5c63e12091c726fe7ab2fb767Deps\\LOD0.usda",
+            "hash": "eee1451a57bf9e88969360be84db22db",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Plant\\CoconutTree001\\_5e982636fbdd4c64026988b2f1023460.usda",
+            "hash": "4e26e662b977a707b6ca97773319eb85",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Plant\\CoconutTree001\\_8053b27ea3051c6a390364125d376b6c.usda",
+            "hash": "3ca70d86ab0128b15beacd82b8d81fff",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Plant\\CoconutTree001\\Textures\\_657c047590019753583a1d56638a433e.usda",
+            "hash": "b47d4b465ac473ddde0dc58c12a9d0f5",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Plant\\CoconutTree001\\Textures\\_90c5003717041573590d1bdb24f8e9e4.usda",
+            "hash": "8ed4283e2cb8588527ef42ec13635d24",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Plant\\CoconutTree001\\Textures\\_b3706bba3e164d935913fb407df0547d.usda",
+            "hash": "c9506d60c5fbc01a8b38ddd8a8a334ad",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Plant\\CoconutTree001\\Textures\\_c40cb1c9fbb4da431a927f5c6d5690ab.usda",
+            "hash": "a2051e84d3c38fdbd3ff673a1fda53b7",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Plant\\CoconutTree001\\_5e982636fbdd4c64026988b2f1023460Deps\\LOD0.usda",
+            "hash": "3af57ecf042f6840066231a18e4aefb4",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Plant\\CoconutTree001\\_8053b27ea3051c6a390364125d376b6cDeps\\LOD0.usda",
+            "hash": "1b965236accc8d8fea42f5eb9317db4e",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Plant\\Grass001\\_2c5aace59efc9ccd0ad5b6c1598e2ffd.usda",
+            "hash": "b352c39a865f383c856af0802b0d82fe",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Plant\\Grass001\\_2c5aace59efc9ccd0ad5b6c1598e2ffdDeps\\LOD0.usda",
+            "hash": "3e0d4ccfb8b16678628c93c1809bf2c0",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Plant\\NestFern001\\_b1874da23da09cd156015e6ed44e6e4e.usda",
+            "hash": "a6b6380ab710abce83b0812217789448",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Plant\\NestFern001\\Textures\\_877db17759fd42339b113e3a279ecc85.usda",
+            "hash": "fdfe729e2e8dbb2387e0a995c4475732",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Plant\\NestFern001\\Textures\\_cdd2db09b4b040d3f8055673438160d3.usda",
+            "hash": "8224f4ee14fd853641a94ffe85d0692b",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Plant\\NestFern001\\_b1874da23da09cd156015e6ed44e6e4eDeps\\LOD0.usda",
+            "hash": "b3633470cb71ad8c1a2548a12778b356",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Plant\\WhiteFlower001\\_02f81c54a789a5def69723492b955fe1.usda",
+            "hash": "957c91d33437da4fcc6dc8265d38b548",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Plant\\WhiteFlower001\\Textures\\_ed2a5d955e55dcb3cbdd1dda23d2437b.usda",
+            "hash": "07147e1a29f66b6fc575292ee2fa57a4",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Plant\\WhiteFlower001\\_02f81c54a789a5def69723492b955fe1Deps\\LOD0.usda",
+            "hash": "f644f9ba16880d2aafb379b7106b5ac9",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Terrain\\_06f39eb0629c18cf2655ed547008bfc6.usda",
+            "hash": "bf06428c1f2ff10126d3768bb5bbcf49",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Terrain\\_10cd7e15a8bf6b88959101b040a7f73f.usda",
+            "hash": "ec76b1e67682d89e5889be89f9959dff",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Terrain\\_14a73db6f3dbd5b8d70e807375dc053e.usda",
+            "hash": "9629e3c197ee16a0364dc7352c2d509c",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Terrain\\_26fb378b609fbe5372ab53f40d87f08c.usda",
+            "hash": "748e1d5c2b696ca541f3f4099f5ee968",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Terrain\\_30c5d72eaabccd14c16fbf103d28b875.usda",
+            "hash": "461c0148cd462550b4879f3733e4e44c",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Terrain\\_57ee42aced2590ac8ba73ece4d157087.usda",
+            "hash": "44d8ac0b5e9aba6fac26ca079e742656",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Terrain\\_77e6eb97ef263630df59806e309a3fcd.usda",
+            "hash": "eff3b3ec251c00912a8be12c2eeb332d",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Terrain\\_99c0da359e0e88075ed3d5725648fc37.usda",
+            "hash": "960c2de1cfbe1041b66844ed38848afe",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Terrain\\_aff693ab562e5ddcb9e987361b68fb84.usda",
+            "hash": "5bff2a0a57ef02f2762e3579e6a860a8",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Terrain\\_feeb4fb7d997d5bf141b54ac267534c5.usda",
+            "hash": "d5fb43af5b91429eed074a603928f669",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Terrain\\_06f39eb0629c18cf2655ed547008bfc6Deps\\LOD0.usda",
+            "hash": "984519fc765b307edcbf83b8590e593b",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Terrain\\_10cd7e15a8bf6b88959101b040a7f73fDeps\\LOD0.usda",
+            "hash": "a0d5b396cecab245b5aaa5ad9e554b74",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Terrain\\_14a73db6f3dbd5b8d70e807375dc053eDeps\\LOD0.usda",
+            "hash": "e3a40b45322b5ce5ef354e54c0aa551f",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Terrain\\_26fb378b609fbe5372ab53f40d87f08cDeps\\LOD0.usda",
+            "hash": "113d35e71b4d9e25fb6b3ddc5ca7515f",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Terrain\\_30c5d72eaabccd14c16fbf103d28b875Deps\\LOD0.usda",
+            "hash": "8a8bc9e465102987a4efa29261e15934",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Terrain\\_57ee42aced2590ac8ba73ece4d157087Deps\\LOD0.usda",
+            "hash": "ff5ec73e99114273fe2201477f8e1af9",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Terrain\\_77e6eb97ef263630df59806e309a3fcdDeps\\LOD0.usda",
+            "hash": "6b65e999b3aed608161ab1400aaf724b",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Terrain\\_99c0da359e0e88075ed3d5725648fc37Deps\\LOD0.usda",
+            "hash": "c6e4183a6a2ce6cfa092d96265f2eb3a",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Terrain\\_aff693ab562e5ddcb9e987361b68fb84Deps\\LOD0.usda",
+            "hash": "631a87e5bf1de8f474d74f4de7cb42c2",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Model\\Terrain\\_feeb4fb7d997d5bf141b54ac267534c5Deps\\LOD0.usda",
+            "hash": "609df90c893797760637a8700d999954",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Procedural\\Ornament\\SP_M_Ornament_RollingDoor1\\_0eea6b1ae1f224ac34499daed6624164.usda",
+            "hash": "c20c84f6db791122c5382a7fb6bcf4fe",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Procedural\\Ornament\\SP_M_Ornament_RollingDoor1\\_d021ff52b92a74a20f23710e7a571e68.usda",
+            "hash": "6f8f401b2e02dfe6df7110b5627fd726",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Procedural\\Ornament\\SP_M_Ornament_RollingDoor1\\_0eea6b1ae1f224ac34499daed6624164Deps\\LOD0.usda",
+            "hash": "3cf33c2061b9d99e58074f28f2b20fbf",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Procedural\\Ornament\\SP_M_Ornament_RollingDoor1\\_d021ff52b92a74a20f23710e7a571e68Deps\\LOD0.usda",
+            "hash": "0dfa8b597cebdbc8980b4e41223f1c47",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Procedural\\Terrain\\Texture\\_15034bb3940bef83f9af44f17788b9b8.usda",
+            "hash": "18347d83fa98e4b221cace51d1951ed5",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Procedural\\Terrain\\Texture\\_353061f7be70e903c97162a48cfaf6b4.usda",
+            "hash": "8e16fc39659006b35a386a4ec03bb3a3",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Procedural\\Terrain\\Texture\\_4c980bb094dc2303db4d048d2ec0f668.usda",
+            "hash": "0768a66431514e023f94732b31cdb04c",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Procedural\\Terrain\\Texture\\_7be59116ef5b11f30818a4aa2e8e162d.usda",
+            "hash": "c237d321d7b839aa64267e946a6e691d",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Procedural\\Terrain\\Texture\\_91ffdca3c4cb5743c85d1b93135eb74b.usda",
+            "hash": "edcec594d6757c9cf7bfb8f2b64d462f",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Procedural\\Terrain\\Texture\\_9bdf69a8e36816b35bf1ffae2043b794.usda",
+            "hash": "1ddc245c78862e44da53966576d53877",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\ArtResources\\Scenes\\Procedural\\Terrain\\Texture\\_d64c7c94d738bf73781f1af9cb50de63.usda",
+            "hash": "46327c6c4d5a05624889500946b099ea",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\Resources\\Textures\\Scene\\Ocean\\_3ddfb62cc0818c737b73e1219307d937.usda",
+            "hash": "69280aff64e94d1e82d9c7371eca6083",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\Resources\\Textures\\Scene\\Ocean\\_d2670a02f1aa6403d824dbf26d39f9de.usda",
+            "hash": "eec1e339678efc131899df0b93847fe2",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\Resources\\Textures\\Scene\\Ocean\\_dfd0f4e93810d2b3497f009aa7dfad27.usda",
+            "hash": "aeeaa6de39f672a405f114319cac3a17",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\Resources\\Textures\\Scene\\Ocean\\_fa7235031817b253ea6ecba4b2b71aef.usda",
+            "hash": "939ed29e9ae2702bb8f8e37e23842c99",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\Resources\\WonderBox\\Shader\\Character\\_4fdca698ade422e3c92ad6559a6e754e.usda",
+            "hash": "782351bf45a23b88c8f913bab06a844e",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Assets\\Resources\\WonderBox\\Shader\\Character\\_c297931bcff2e6b37bca8b05793e32cb.usda",
+            "hash": "8854783e23760ec4eb13cc077a9309f6",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Library\\unity default resources\\_7c0715414d8c1147e0c77297552ddec6.usda",
+            "hash": "7e3da78a4b503874c027ffd54e89aacf",
+            "last_change_version": "",
+            "last_change_type": ""
+        },
+        {
+            "path": "\\assets\\Library\\unity default resources\\_7c0715414d8c1147e0c77297552ddec6Deps\\LOD0.usda",
+            "hash": "19b73602a0310ff1df93fe41fac676c5",
+            "last_change_version": "",
+            "last_change_type": ""
+        }
+    ]
+}

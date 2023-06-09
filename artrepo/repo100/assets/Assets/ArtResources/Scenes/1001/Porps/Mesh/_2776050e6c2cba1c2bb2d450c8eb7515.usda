@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_2776050e6c2cba1c2bb2d450c8eb7515"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_2776050e6c2cba1c2bb2d450c8eb7515" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_1001_Guardrail_Blue_01"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "2776050e-6c2c-ba1c-2bb2-d450c8eb7515"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_2776050e6c2cba1c2bb2d450c8eb7515Deps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

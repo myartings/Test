@@ -1,0 +1,5 @@
+texture:
+  generate_mipmap: false
+  is_srgb: false
+cooked_version: 0.4.1
+pipeline_version: 0.5.2

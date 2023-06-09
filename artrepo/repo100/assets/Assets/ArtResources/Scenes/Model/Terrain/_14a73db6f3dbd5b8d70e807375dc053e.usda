@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_14a73db6f3dbd5b8d70e807375dc053e"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_14a73db6f3dbd5b8d70e807375dc053e" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "SP_M_Terrain_Water001"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "14a73db6-f3db-d5b8-d70e-807375dc053e"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_14a73db6f3dbd5b8d70e807375dc053eDeps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

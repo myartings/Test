@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_3d3895e2198429dfef779815e1e3a101"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_3d3895e2198429dfef779815e1e3a101" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_1001_Sign_Green_01_Sub2_4"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "3d3895e2-1984-29df-ef77-9815e1e3a101"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_3d3895e2198429dfef779815e1e3a101Deps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

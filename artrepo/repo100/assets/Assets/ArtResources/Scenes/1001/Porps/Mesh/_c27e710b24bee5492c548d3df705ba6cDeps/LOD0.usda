@@ -1,0 +1,40 @@
+#usda 1.0
+(
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Mesh "LOD0"
+{
+    uniform bool doubleSided
+    float3[] extent = [(-0.5771003, 0.74946386, 0.6428222), (0.26759374, 2.372173, 0.6428223)]
+    int[] faceVertexCounts = [3, 3]
+    int[] faceVertexIndices = [1, 0, 2, 2, 0, 3]
+    normal3f[] normals = [(0, 0, 1), (0, 0, 1), (0, 0, 1), (0, 0, 1)]
+    uniform token orientation
+    point3f[] points = [(-0.5771003, 2.372173, 0.6428222), (0.26759374, 2.372173, 0.6428222), (0.26759374, 0.7494639, 0.64282227), (-0.5771003, 0.7494639, 0.6428223)]
+    color4f[] primvars:colors (
+        elementSize = 1
+        interpolation = "constant"
+    )
+    color3f[] primvars:displayColor = [(0.31864026, 0.6776033, 0.74334973)] (
+        interpolation = "constant"
+    )
+    float[] primvars:displayOpacity = [0.5019608] (
+        interpolation = "constant"
+    )
+    float2[] primvars:st = [(0.24606088, 0.98783237), (0.7539393, 0.98783237), (0.7539393, 0.012166623), (0.24606088, 0.012166623)] (
+        elementSize = 1
+        interpolation = "constant"
+    )
+    float4[] primvars:tangents = [(1, 0, 0, -1), (1, 0, 0, -1), (1, 0, 0, -1), (1, 0, 0, -1)] (
+        elementSize = 1
+        interpolation = "vertex"
+    )
+    uniform token purpose
+    token visibility
+    matrix4d xformOp:transform = ( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (0, 0, 0, 1) )
+    uniform token[] xformOpOrder = ["xformOp:transform"]
+}
+

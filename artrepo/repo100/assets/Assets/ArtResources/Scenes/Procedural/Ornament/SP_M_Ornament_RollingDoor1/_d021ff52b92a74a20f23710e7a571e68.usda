@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_d021ff52b92a74a20f23710e7a571e68"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_d021ff52b92a74a20f23710e7a571e68" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "SP_M_Ornament_RollingDoor1_Sub0_2"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "d021ff52-b92a-74a2-0f23-710e7a571e68"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_d021ff52b92a74a20f23710e7a571e68Deps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

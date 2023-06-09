@@ -1,0 +1,23 @@
+#usda 1.0
+(
+    defaultPrim = "_90c5003717041573590d1bdb24f8e9e4"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_90c5003717041573590d1bdb24f8e9e4" (
+    prepend apiSchemas = ["TextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_T_Plant_CoconutTree001_T2_01_D"
+    uniform token assetBase:assetType = "texture"
+    uniform string assetId:guid = "90c50037-1704-1573-590d-1bdb24f8e9e4"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 1
+    uniform token baseTextureAsset:wrapMode = "kRepeat"
+    asset inputs:textureFilepath = @./textures/S_T_Plant_CoconutTree001_T2_01_D.png@
+}
+

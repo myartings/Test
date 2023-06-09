@@ -1,0 +1,23 @@
+#usda 1.0
+(
+    defaultPrim = "_ff10c90544e6d0530944c678fba6c21e"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_ff10c90544e6d0530944c678fba6c21e" (
+    prepend apiSchemas = ["TextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_T_Building_Window003_T2_01_D"
+    uniform token assetBase:assetType = "texture"
+    uniform string assetId:guid = "ff10c905-44e6-d053-0944-c678fba6c21e"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 1
+    uniform token baseTextureAsset:wrapMode = "kRepeat"
+    asset inputs:textureFilepath = @./textures/S_T_Building_Window003_T2_01_D.png@
+}
+

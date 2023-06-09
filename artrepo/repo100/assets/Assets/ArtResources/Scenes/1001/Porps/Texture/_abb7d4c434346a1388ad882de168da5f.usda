@@ -1,0 +1,23 @@
+#usda 1.0
+(
+    defaultPrim = "_abb7d4c434346a1388ad882de168da5f"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_abb7d4c434346a1388ad882de168da5f" (
+    prepend apiSchemas = ["TextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "T_Map_Color_01"
+    uniform token assetBase:assetType = "texture"
+    uniform string assetId:guid = "abb7d4c4-3434-6a13-88ad-882de168da5f"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 1
+    uniform token baseTextureAsset:wrapMode = "kRepeat"
+    asset inputs:textureFilepath = @./textures/T_Map_Color_01.png@
+}
+

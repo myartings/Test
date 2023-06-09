@@ -1,0 +1,23 @@
+#usda 1.0
+(
+    defaultPrim = "_a0d1abd6cfb9e9234b1deb802e9b9433"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_a0d1abd6cfb9e9234b1deb802e9b9433" (
+    prepend apiSchemas = ["TextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "N4"
+    uniform token assetBase:assetType = "texture"
+    uniform string assetId:guid = "a0d1abd6-cfb9-e923-4b1d-eb802e9b9433"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 1
+    uniform token baseTextureAsset:wrapMode = "kRepeat"
+    asset inputs:textureFilepath = @./textures/N4.png@
+}
+

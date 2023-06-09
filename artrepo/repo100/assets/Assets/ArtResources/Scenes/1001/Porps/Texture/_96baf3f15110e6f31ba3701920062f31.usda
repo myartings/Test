@@ -1,0 +1,23 @@
+#usda 1.0
+(
+    defaultPrim = "_96baf3f15110e6f31ba3701920062f31"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_96baf3f15110e6f31ba3701920062f31" (
+    prepend apiSchemas = ["TextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_1001_Block_Green_01"
+    uniform token assetBase:assetType = "texture"
+    uniform string assetId:guid = "96baf3f1-5110-e6f3-1ba3-701920062f31"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 1
+    uniform token baseTextureAsset:wrapMode = "kRepeat"
+    asset inputs:textureFilepath = @./textures/S_M_1001_Block_Green_01.png@
+}
+

@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_397ec8932ea7d19a2b64b65ca2f23de2"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_397ec8932ea7d19a2b64b65ca2f23de2" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_1001_Table_Wood_01"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "397ec893-2ea7-d19a-2b64-b65ca2f23de2"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_397ec8932ea7d19a2b64b65ca2f23de2Deps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

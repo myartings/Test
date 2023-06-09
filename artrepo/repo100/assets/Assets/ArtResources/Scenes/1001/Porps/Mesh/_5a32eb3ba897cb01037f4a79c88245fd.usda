@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_5a32eb3ba897cb01037f4a79c88245fd"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_5a32eb3ba897cb01037f4a79c88245fd" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_1001_Door_Blue_01_Sub0_2"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "5a32eb3b-a897-cb01-037f-4a79c88245fd"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_5a32eb3ba897cb01037f4a79c88245fdDeps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

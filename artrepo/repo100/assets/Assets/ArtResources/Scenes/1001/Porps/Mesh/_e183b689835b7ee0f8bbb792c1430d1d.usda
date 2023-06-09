@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_e183b689835b7ee0f8bbb792c1430d1d"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_e183b689835b7ee0f8bbb792c1430d1d" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "Box002_Sub0_2"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "e183b689-835b-7ee0-f8bb-b792c1430d1d"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform uint meshLodSettings:lodCount = 1
+
+    def "LOD0" (
+        prepend references = @./_e183b689835b7ee0f8bbb792c1430d1dDeps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+
