@@ -1,0 +1,24 @@
+#usda 1.0
+(
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_7c0715414d8c1147e0c77297552ddec6" (
+    prepend apiSchemas = ["ResourceAPI"]
+)
+{
+    uniform token purpose = "Default"
+    uniform string resource:name = "Cube"
+    uniform string resource:package = "default"
+    uniform string resourceId:guid = "7c071541-4d8c-1147-e0c7-7297552ddec6"
+    string resourceType = "mesh"
+
+    def "Asset" (
+        prepend references = @./../Library/unity_default_resources/_7c0715414d8c1147e0c77297552ddec6.usda@</_7c0715414d8c1147e0c77297552ddec6>
+    )
+    {
+    }
+}
+

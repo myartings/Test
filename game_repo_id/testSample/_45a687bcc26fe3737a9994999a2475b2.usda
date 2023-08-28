@@ -1,0 +1,21 @@
+#usda 1.0
+(
+    defaultPrim = "_45a687bcc26fe3737a9994999a2475b2"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_45a687bcc26fe3737a9994999a2475b2" (
+    prepend apiSchemas = ["AssetBaseAPI", "RenderTextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "testRenderTexture"
+    uniform token assetBase:assetType = "renderTexture"
+    uniform string assetId:guid = "45a687bc-c26f-e373-7a99-94999a2475b2"
+    uniform token purpose = "Default"
+    int renderTextureAsset:depth = 24
+    int renderTextureAsset:height = 256
+    int renderTextureAsset:width = 256
+}
+

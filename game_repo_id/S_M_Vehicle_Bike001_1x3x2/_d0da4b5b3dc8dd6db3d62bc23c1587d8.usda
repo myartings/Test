@@ -1,0 +1,27 @@
+#usda 1.0
+(
+    defaultPrim = "_d0da4b5b3dc8dd6db3d62bc23c1587d8"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_d0da4b5b3dc8dd6db3d62bc23c1587d8" (
+    prepend apiSchemas = ["MeshAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_M_Vehicle_Bike001_1x3x2_LOD0"
+    uniform token assetBase:assetType = "mesh"
+    uniform string assetId:guid = "d0da4b5b-3dc8-dd6d-b3d6-2bc23c1587d8"
+    uniform bool meshAsset:isCharacterMesh = 0
+    uniform bool meshAsset:isPlatformReadable = 0
+    uniform uint meshLodSettings:lodCount = 1
+    uniform token purpose = "Default"
+
+    def "LOD0" (
+        prepend references = @./_d0da4b5b3dc8dd6db3d62bc23c1587d8Deps/LOD0.usda@</LOD0>
+    )
+    {
+    }
+}
+

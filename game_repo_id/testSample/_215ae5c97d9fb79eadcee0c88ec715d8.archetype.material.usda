@@ -1,0 +1,261 @@
+#usda 1.0
+(
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def MaterialParamSet "Material_31321ba15b8f8eb4c954353edc038b1d"
+{
+    uniform token materialParamSet:cullMode = "Back"
+    uniform string[] materialParamSet:disablePasses = []
+    uniform token materialParamSet:dstBlendMode = "Zero"
+    uniform string[] materialParamSet:enableKeywords = []
+    uniform string materialParamSet:materialName = ""
+    uniform int materialParamSet:renderQueue = 2000
+    uniform string materialParamSet:renderType = "Opaque"
+    uniform string materialParamSet:shaderName = "Lit Render Pipeline/Universal"
+    uniform token materialParamSet:srcBlendMode = "One"
+    uniform token purpose = "Default"
+
+    def MaterialParamFloat "_WorkflowMode_Float"
+    {
+        string materialParam:propertyName = "_WorkflowMode"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 1
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamColor "_BaseColor_Color"
+    {
+        string materialParam:propertyName = "_BaseColor"
+        string materialParam:propertyType = "color"
+        color4f materialParam:propertyValue = (1, 1, 1, 1)
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamRange "_Cutoff_Range"
+    {
+        string materialParam:propertyName = "_Cutoff"
+        string materialParam:propertyType = "range"
+        vector3f materialParam:propertyValue = (0, 1, 0.5)
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamRange "_Smoothness_Range"
+    {
+        string materialParam:propertyName = "_Smoothness"
+        string materialParam:propertyType = "range"
+        vector3f materialParam:propertyValue = (0, 1, 0.5)
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamRange "_GlossMapScale_Range"
+    {
+        string materialParam:propertyName = "_GlossMapScale"
+        string materialParam:propertyType = "range"
+        vector3f materialParam:propertyValue = (0, 1, 1)
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_SmoothnessTextureChannel_Float"
+    {
+        string materialParam:propertyName = "_SmoothnessTextureChannel"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 0
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamRange "_Metallic_Range"
+    {
+        string materialParam:propertyName = "_Metallic"
+        string materialParam:propertyType = "range"
+        vector3f materialParam:propertyValue = (0, 1, 0)
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamColor "_SpecColor_Color"
+    {
+        string materialParam:propertyName = "_SpecColor"
+        string materialParam:propertyType = "color"
+        color4f materialParam:propertyValue = (1, 1, 1, 1)
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_SpecularHighlights_Float"
+    {
+        string materialParam:propertyName = "_SpecularHighlights"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 1
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_EnvironmentReflections_Float"
+    {
+        string materialParam:propertyName = "_EnvironmentReflections"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 1
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_VertexColor_Float"
+    {
+        string materialParam:propertyName = "_VertexColor"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 0
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_BumpScale_Float"
+    {
+        string materialParam:propertyName = "_BumpScale"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 1
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamRange "_OcclusionStrength_Range"
+    {
+        string materialParam:propertyName = "_OcclusionStrength"
+        string materialParam:propertyType = "range"
+        vector3f materialParam:propertyValue = (0, 1, 1)
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamColor "_EmissionColor_Color"
+    {
+        string materialParam:propertyName = "_EmissionColor"
+        string materialParam:propertyType = "color"
+        color4f materialParam:propertyValue = (0, 0, 0, 1)
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_StencilComp_Float"
+    {
+        string materialParam:propertyName = "_StencilComp"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 3
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_StencilRef_Float"
+    {
+        string materialParam:propertyName = "_StencilRef"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 128
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_Ztest_Float"
+    {
+        string materialParam:propertyName = "_Ztest"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 8
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_Surface_Float"
+    {
+        string materialParam:propertyName = "_Surface"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 0
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_Blend_Float"
+    {
+        string materialParam:propertyName = "_Blend"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 0
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_AlphaClip_Float"
+    {
+        string materialParam:propertyName = "_AlphaClip"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 0
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_SrcBlend_Float"
+    {
+        string materialParam:propertyName = "_SrcBlend"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 1
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_DstBlend_Float"
+    {
+        string materialParam:propertyName = "_DstBlend"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 0
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_ZWrite_Float"
+    {
+        string materialParam:propertyName = "_ZWrite"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 1
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_Cull_Float"
+    {
+        string materialParam:propertyName = "_Cull"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 2
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_ReceiveShadows_Float"
+    {
+        string materialParam:propertyName = "_ReceiveShadows"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 1
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_QueueOffset_Float"
+    {
+        string materialParam:propertyName = "_QueueOffset"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 0
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamColor "_Color_Color"
+    {
+        string materialParam:propertyName = "_Color"
+        string materialParam:propertyType = "color"
+        color4f materialParam:propertyValue = (0.5, 0.5, 0.5, 1)
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_GlossMapScale_Float"
+    {
+        string materialParam:propertyName = "_GlossMapScale"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 1
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_Glossiness_Float"
+    {
+        string materialParam:propertyName = "_Glossiness"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 0.5
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_GlossyReflections_Float"
+    {
+        string materialParam:propertyName = "_GlossyReflections"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 1
+        uniform token purpose = "Default"
+    }
+}
+
