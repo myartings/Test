@@ -1,157 +1,157 @@
 {
     "files": [
         {
-            "path": "/.artrepo.setting",
+            "path": ".artrepo.setting",
             "hash": "dfa77c2d136261608ad5920ad3caed77",
-            "last_change_version": "1",
-            "last_change_type": ""
-        },
-        {
-            "path": "/Library/unity_default_resources/_7c0715414d8c1147e0c77297552ddec6.usda",
-            "hash": "1fe79b610fdca81092ba0a05456c1c41",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/Library/unity_default_resources/_7c0715414d8c1147e0c77297552ddec6Deps/LOD0.usda",
+            "path": "Library/unity_default_resources/_7c0715414d8c1147e0c77297552ddec6.usda",
+            "hash": "1fe79b610fdca81092ba0a05456c1c41",
+            "last_change_version": "1",
+            "last_change_type": ""
+        },
+        {
+            "path": "Library/unity_default_resources/_7c0715414d8c1147e0c77297552ddec6Deps/LOD0.usda",
             "hash": "b767a5c9f688753733dd952cadd584e6",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/prefabs/_59ec68e921d0f572a18a5288432ac702.archetype.material.usda",
+            "path": "prefabs/_59ec68e921d0f572a18a5288432ac702.archetype.material.usda",
             "hash": "483037d35fcd8d7021035288906fdb1b",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/prefabs/_59ec68e921d0f572a18a5288432ac702.archetype.resources.usda",
+            "path": "prefabs/_59ec68e921d0f572a18a5288432ac702.archetype.resources.usda",
             "hash": "f351e0cb5032fafa3e53e9ce4e29e9ad",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/prefabs/_59ec68e921d0f572a18a5288432ac702.archetype.usda",
+            "path": "prefabs/_59ec68e921d0f572a18a5288432ac702.archetype.usda",
             "hash": "a0d38d45d27a3f5e4cd39df4aa77a43a",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/prefabs/_ed823282185986a96b41030d1f5cbf88.archetype.usda",
+            "path": "prefabs/_ed823282185986a96b41030d1f5cbf88.archetype.usda",
             "hash": "dc2020c1468d578bed1b339f216e75ae",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/prefabs/_f438248ca0ad75c1226b2a19cc93e2dd.archetype.material.usda",
+            "path": "prefabs/_f438248ca0ad75c1226b2a19cc93e2dd.archetype.material.usda",
             "hash": "0e36252bcb7568c06eedf2aa05845cd3",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/prefabs/_f438248ca0ad75c1226b2a19cc93e2dd.archetype.resources.usda",
+            "path": "prefabs/_f438248ca0ad75c1226b2a19cc93e2dd.archetype.resources.usda",
             "hash": "0e36252bcb7568c06eedf2aa05845cd3",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/prefabs/_f438248ca0ad75c1226b2a19cc93e2dd.archetype.usda",
+            "path": "prefabs/_f438248ca0ad75c1226b2a19cc93e2dd.archetype.usda",
             "hash": "f6f83554f9aa890b1d71acfc38103ed0",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/S_M_Vehicle_Bike001_1x3x2/_d0da4b5b3dc8dd6db3d62bc23c1587d8.usda",
+            "path": "S_M_Vehicle_Bike001_1x3x2/_d0da4b5b3dc8dd6db3d62bc23c1587d8.usda",
             "hash": "caad63911cf6d7a7f2979d1aa8a42010",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/S_M_Vehicle_Bike001_1x3x2/Textures/S_T_Vehicle_Bike001_T1_01_D.png",
+            "path": "S_M_Vehicle_Bike001_1x3x2/Textures/S_T_Vehicle_Bike001_T1_01_D.png",
             "hash": "6dc9e1a5a25d656e4e0582351b65d166",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/S_M_Vehicle_Bike001_1x3x2/Textures/S_T_Vehicle_Bike001_T1_NMS.png",
+            "path": "S_M_Vehicle_Bike001_1x3x2/Textures/S_T_Vehicle_Bike001_T1_NMS.png",
             "hash": "afa3e25387d74c5e10e5269de947f69d",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/S_M_Vehicle_Bike001_1x3x2/Textures/_43d1a6cd3f708a96e22d32a9f9688d34.usda",
+            "path": "S_M_Vehicle_Bike001_1x3x2/Textures/_43d1a6cd3f708a96e22d32a9f9688d34.usda",
             "hash": "bf6ae798f4644e0a0b27dfd57ec54ea0",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/S_M_Vehicle_Bike001_1x3x2/Textures/_668047c26e4f4de653d6e8802e2be413.usda",
+            "path": "S_M_Vehicle_Bike001_1x3x2/Textures/_668047c26e4f4de653d6e8802e2be413.usda",
             "hash": "94e772effba910e24ac6dfe3cb60fa8a",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/S_M_Vehicle_Bike001_1x3x2/_d0da4b5b3dc8dd6db3d62bc23c1587d8Deps/LOD0.usda",
+            "path": "S_M_Vehicle_Bike001_1x3x2/_d0da4b5b3dc8dd6db3d62bc23c1587d8Deps/LOD0.usda",
             "hash": "3393a12609ffc81bc0a42915d67fdbd4",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/testSample/img_Waiting_stage_Kiwi.png",
+            "path": "testSample/img_Waiting_stage_Kiwi.png",
             "hash": "d1cb7388013e2b0ef30b65903086ca11",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/testSample/_215ae5c97d9fb79eadcee0c88ec715d8.archetype.material.usda",
+            "path": "testSample/_215ae5c97d9fb79eadcee0c88ec715d8.archetype.material.usda",
             "hash": "a7ae47639aa75686fdcfbb68632e7d8d",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/testSample/_215ae5c97d9fb79eadcee0c88ec715d8.archetype.resources.usda",
+            "path": "testSample/_215ae5c97d9fb79eadcee0c88ec715d8.archetype.resources.usda",
             "hash": "46199d25fb305e03e4e7c9b6e8068c4f",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/testSample/_215ae5c97d9fb79eadcee0c88ec715d8.archetype.usda",
+            "path": "testSample/_215ae5c97d9fb79eadcee0c88ec715d8.archetype.usda",
             "hash": "bc061603cdf13971d784a0b0e95f6d72",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/testSample/_45a687bcc26fe3737a9994999a2475b2.usda",
+            "path": "testSample/_45a687bcc26fe3737a9994999a2475b2.usda",
             "hash": "4f4cf0f328f6e09caadea80a24d070fd",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/testSample/_8c51f35d2a70750f993fc286b2c8b3cb.usda",
+            "path": "testSample/_8c51f35d2a70750f993fc286b2c8b3cb.usda",
             "hash": "a076c9aaa3a3efb91a80fa4530ef1f07",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/testSample/_fd2f318b477f5bb36955c760761d0f53.usda",
+            "path": "testSample/_fd2f318b477f5bb36955c760761d0f53.usda",
             "hash": "05e686b2958963abf09f1fcb9d336299",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/testSample/Audio/Mobile/3Dhub/3Dhub.bank",
+            "path": "testSample/Audio/Mobile/3Dhub/3Dhub.bank",
             "hash": "e3b086cdd697c425650b22dfa9a3f8e3",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/testSample/Audio/Mobile/3Dhub/_3c827b56505774f4b96125402e73884f.usda",
+            "path": "testSample/Audio/Mobile/3Dhub/_3c827b56505774f4b96125402e73884f.usda",
             "hash": "a7d18b01bfb9a9f650428207a90f644b",
             "last_change_version": "",
             "last_change_type": ""
         },
         {
-            "path": "/testSample/IntroBg_ShowTimeline/IntroBg_ShowTimeline.timeline",
+            "path": "testSample/IntroBg_ShowTimeline/IntroBg_ShowTimeline.timeline",
             "hash": "7c11056d4ca31dc3a70a8fa181973c5d",
             "last_change_version": "",
             "last_change_type": ""
