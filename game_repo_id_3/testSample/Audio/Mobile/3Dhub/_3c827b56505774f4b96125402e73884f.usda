@@ -1,0 +1,19 @@
+#usda 1.0
+(
+    defaultPrim = "_3c827b56505774f4b96125402e73884f"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_3c827b56505774f4b96125402e73884f" (
+    prepend apiSchemas = ["FmodAudioAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "_Dhub_3c827b56505774f4b96125402e73884f"
+    uniform token assetBase:assetType = "fmodAudio"
+    uniform string assetId:guid = "3c827b56-5057-74f4-b961-25402e73884f"
+    asset fmodAudioAsset:fmodBankPath = @.//3Dhub.bank@
+    uniform token purpose = "Default"
+}
+

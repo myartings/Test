@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_668047c26e4f4de653d6e8802e2be413"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_668047c26e4f4de653d6e8802e2be413" (
+    prepend apiSchemas = ["TextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_T_Vehicle_Bike001_T1_NMS"
+    uniform token assetBase:assetType = "texture"
+    uniform string assetId:guid = "668047c2-6e4f-4de6-53d6-e8802e2be413"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:generateMipmap = 1
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 0
+    uniform token baseTextureAsset:wrapMode = "kRepeat"
+    asset inputs:textureFilepath = @./S_T_Vehicle_Bike001_T1_NMS.png@
+    uniform token purpose = "Default"
+}
+

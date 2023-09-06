@@ -1,0 +1,26 @@
+#usda 1.0
+(
+    defaultPrim = "_8c51f35d2a70750f993fc286b2c8b3cb"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_8c51f35d2a70750f993fc286b2c8b3cb" (
+    prepend apiSchemas = ["ImageAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "img_Waiting_stage_Kiwi"
+    uniform token assetBase:assetType = "image"
+    uniform string assetId:guid = "8c51f35d-2a70-750f-993f-c286b2c8b3cb"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:generateMipmap = 0
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 1
+    uniform token baseTextureAsset:wrapMode = "kClamp"
+    uniform asset imageFilePath = @./img_Waiting_stage_Kiwi.png@
+    asset inputs:textureFilepath = @./img_Waiting_stage_Kiwi.png@
+    uniform token purpose = "Default"
+}
+

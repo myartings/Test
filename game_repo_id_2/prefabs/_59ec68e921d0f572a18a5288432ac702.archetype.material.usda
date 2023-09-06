@@ -1,0 +1,273 @@
+#usda 1.0
+(
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def MaterialParamSet "Material_d4cf0f95f7332204e81d46556321ebf7"
+{
+    uniform token materialParamSet:cullMode = "Back"
+    uniform string[] materialParamSet:disablePasses = []
+    uniform token materialParamSet:dstBlendMode = "Zero"
+    uniform string[] materialParamSet:enableKeywords = ["_ALPHATEST_ON"]
+    uniform string materialParamSet:materialName = ""
+    uniform int materialParamSet:renderQueue = 2450
+    uniform string materialParamSet:renderType = "TransparentCutout"
+    uniform string materialParamSet:shaderName = "Party/Scene/Base"
+    uniform token materialParamSet:srcBlendMode = "One"
+    uniform token purpose = "Default"
+
+    def MaterialParamFloat "_WorkflowMode_Float"
+    {
+        string materialParam:propertyName = "_WorkflowMode"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 0
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamTexture "_BaseMap_TexEnv"
+    {
+        string materialParam:propertyName = "_BaseMap"
+        string materialParam:propertyType = "texture"
+        rel materialParam:propertyValue = </Material_d4cf0f95f7332204e81d46556321ebf7/_BaseMap_TexEnv/TextureRef>
+        uniform token purpose = "Default"
+
+        def "TextureRef" (
+            prepend references = @./_59ec68e921d0f572a18a5288432ac702.archetype.resources.usda@</_43d1a6cd3f708a96e22d32a9f9688d34>
+        )
+        {
+        }
+    }
+
+    def MaterialParamColor "_BaseColor_Color"
+    {
+        string materialParam:propertyName = "_BaseColor"
+        string materialParam:propertyType = "color"
+        color4f materialParam:propertyValue = (1, 1, 1, 1)
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamVector "_BaseMap_ST_Vector"
+    {
+        string materialParam:propertyName = "_BaseMap_ST"
+        string materialParam:propertyType = "vector"
+        color4f materialParam:propertyValue = (1, 1, 0, 0)
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamRange "_Cutoff_Range"
+    {
+        string materialParam:propertyName = "_Cutoff"
+        string materialParam:propertyType = "range"
+        vector3f materialParam:propertyValue = (0, 1, 0.3)
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamRange "_Smoothness_Range"
+    {
+        string materialParam:propertyName = "_Smoothness"
+        string materialParam:propertyType = "range"
+        vector3f materialParam:propertyValue = (0, 1, 1)
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamRange "_GlossMapScale_Range"
+    {
+        string materialParam:propertyName = "_GlossMapScale"
+        string materialParam:propertyType = "range"
+        vector3f materialParam:propertyValue = (0, 1, 0)
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_SmoothnessTextureChannel_Float"
+    {
+        string materialParam:propertyName = "_SmoothnessTextureChannel"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 0
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamRange "_Metallic_Range"
+    {
+        string materialParam:propertyName = "_Metallic"
+        string materialParam:propertyType = "range"
+        vector3f materialParam:propertyValue = (0, 1, 1)
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamTexture "_Normal_M_SMap_TexEnv"
+    {
+        string materialParam:propertyName = "_Normal_M_SMap"
+        string materialParam:propertyType = "texture"
+        rel materialParam:propertyValue = </Material_d4cf0f95f7332204e81d46556321ebf7/_Normal_M_SMap_TexEnv/TextureRef>
+        uniform token purpose = "Default"
+
+        def "TextureRef" (
+            prepend references = @./_59ec68e921d0f572a18a5288432ac702.archetype.resources.usda@</_668047c26e4f4de653d6e8802e2be413>
+        )
+        {
+        }
+    }
+
+    def MaterialParamFloat "_SpecularHighlights_Float"
+    {
+        string materialParam:propertyName = "_SpecularHighlights"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 1
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_EnvironmentReflections_Float"
+    {
+        string materialParam:propertyName = "_EnvironmentReflections"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 1
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_VertexColor_Float"
+    {
+        string materialParam:propertyName = "_VertexColor"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 0
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_TextureArray_Float"
+    {
+        string materialParam:propertyName = "_TextureArray"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 0
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_BumpScale_Float"
+    {
+        string materialParam:propertyName = "_BumpScale"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 1
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamRange "_EmissionStrength_Range"
+    {
+        string materialParam:propertyName = "_EmissionStrength"
+        string materialParam:propertyType = "range"
+        vector3f materialParam:propertyValue = (0, 200, 0)
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamRange "_Transparency_Range"
+    {
+        string materialParam:propertyName = "_Transparency"
+        string materialParam:propertyType = "range"
+        vector3f materialParam:propertyValue = (0, 1, 1)
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_Surface_Float"
+    {
+        string materialParam:propertyName = "_Surface"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 0
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_Blend_Float"
+    {
+        string materialParam:propertyName = "_Blend"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 0
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_AlphaClip_Float"
+    {
+        string materialParam:propertyName = "_AlphaClip"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 1
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_SrcBlend_Float"
+    {
+        string materialParam:propertyName = "_SrcBlend"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 1
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_DstBlend_Float"
+    {
+        string materialParam:propertyName = "_DstBlend"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 0
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_ZWrite_Float"
+    {
+        string materialParam:propertyName = "_ZWrite"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 1
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_Cull_Float"
+    {
+        string materialParam:propertyName = "_Cull"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 2
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_StencilRef_Float"
+    {
+        string materialParam:propertyName = "_StencilRef"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 128
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_StencilMask_Float"
+    {
+        string materialParam:propertyName = "_StencilMask"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 128
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_StencilPass_Float"
+    {
+        string materialParam:propertyName = "_StencilPass"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 0
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_StencilZFail_Float"
+    {
+        string materialParam:propertyName = "_StencilZFail"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 0
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_ReceiveShadows_Float"
+    {
+        string materialParam:propertyName = "_ReceiveShadows"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 1
+        uniform token purpose = "Default"
+    }
+
+    def MaterialParamFloat "_QueueOffset_Float"
+    {
+        string materialParam:propertyName = "_QueueOffset"
+        string materialParam:propertyType = "float"
+        float materialParam:propertyValue = 0
+        uniform token purpose = "Default"
+    }
+}
+

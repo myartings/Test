@@ -1,0 +1,25 @@
+#usda 1.0
+(
+    defaultPrim = "_43d1a6cd3f708a96e22d32a9f9688d34"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Material "_43d1a6cd3f708a96e22d32a9f9688d34" (
+    prepend apiSchemas = ["TextureAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "S_T_Vehicle_Bike001_T1_01_D"
+    uniform token assetBase:assetType = "texture"
+    uniform string assetId:guid = "43d1a6cd-3f70-8a96-e22d-32a9f9688d34"
+    uniform string baseTextureAsset:atlasMeta = "empty"
+    uniform token baseTextureAsset:filterMode = "kBilinear"
+    uniform bool baseTextureAsset:generateMipmap = 1
+    uniform bool baseTextureAsset:isCubemap = 0
+    uniform bool baseTextureAsset:isSRGB = 1
+    uniform token baseTextureAsset:wrapMode = "kRepeat"
+    asset inputs:textureFilepath = @./S_T_Vehicle_Bike001_T1_01_D.png@
+    uniform token purpose = "Default"
+}
+

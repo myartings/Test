@@ -1,0 +1,19 @@
+#usda 1.0
+(
+    defaultPrim = "_fd2f318b477f5bb36955c760761d0f53"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_fd2f318b477f5bb36955c760761d0f53" (
+    prepend apiSchemas = ["TimelineAssetAPI"]
+)
+{
+    uniform string assetBase:assetName = "IntroBg_ShowTimeline"
+    uniform token assetBase:assetType = "timeline"
+    uniform string assetId:guid = "fd2f318b-477f-5bb3-6955-c760761d0f53"
+    uniform token purpose = "Default"
+    asset timelineAsset:timelinePath = @./IntroBg_ShowTimeline/IntroBg_ShowTimeline.timeline@
+}
+

@@ -1,0 +1,115 @@
+#usda 1.0
+(
+    defaultPrim = "_59ec68e921d0f572a18a5288432ac702"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_59ec68e921d0f572a18a5288432ac702" (
+    prepend apiSchemas = ["ArchetypeAssetAPI"]
+)
+{
+    uniform string archetypeAsset:resourceListFilepath = "./_59ec68e921d0f572a18a5288432ac702.archetype.resources.usda"
+    uniform string assetBase:assetName = "S_Pre_Vehicle_Bike001_1x3x2_01"
+    uniform token assetBase:assetType = "archetypeStream"
+    uniform string assetId:guid = "59ec68e9-21d0-f572-a18a-5288432ac702"
+    uniform token purpose = "Default"
+
+    def Xform "S_Pre_Vehicle_Bike001_1x3x2_01" (
+        prepend apiSchemas = ["sObjectDataComponentAPI", "RenderInfoFlagsAPI", "ScriptHelperComponentAPI"]
+    )
+    {
+        uniform token purpose = "Default"
+        bool renderInfoFlags:GPUInstancing = 0
+        int renderInfoFlags:layer = 0
+        bool renderInfoFlags:Occulder = 0
+        bool renderInfoFlags:staticBatching = 0
+        string[] scriptHelperComponent:m_lightLuaObjGuids = []
+        string sObjectDataComponent:m_className = "cNodeObject"
+        string sObjectDataComponent:m_guid = "59ec68e9-21d0-f572-a18a-5288432ac702"
+        bool sObjectDataComponent:m_networking = 0
+        bool sObjectDataComponent:m_onlyInSpawningClient = 0
+        uniform token sObjectDataComponent:m_spawnCondition = "kAnyWhere"
+        matrix4d xformOp:transform = ( (1, 0, 0, 0), (0, 1, -4.371138828673793e-8, 0), (0, 4.371138828673793e-8, 1, 0), (0, 0, 0, 1) )
+        uniform token[] xformOpOrder = ["xformOp:transform"]
+
+        def Xform "S_M_Vehicle_Bike001_1x3x2_LOD0" (
+            prepend apiSchemas = ["MeshInstanceAPI", "sObjectDataComponentAPI", "LodControlAPI", "RenderInfoFlagsAPI", "RigidbodyAPI", "PhysicsRigidBodyAPI", "MaterialAPI", "ScriptHelperComponentAPI"]
+        )
+        {
+            int collisionGroup = 1
+            bool enableGravity = 1
+            uniform bool lodControl:enableLod = 0
+            uniform float[] lodControl:LodRangeScreenSizes = [0.01]
+            rel material:materialParamSet = </_59ec68e921d0f572a18a5288432ac702/S_Pre_Vehicle_Bike001_1x3x2_01/S_M_Vehicle_Bike001_1x3x2_LOD0/Material>
+            uniform token meshColliderComplexity = "kNone"
+            uniform bool meshInstance:castShadow = 1
+            rel meshInstance:mesh = </_59ec68e921d0f572a18a5288432ac702/S_Pre_Vehicle_Bike001_1x3x2_01/S_M_Vehicle_Bike001_1x3x2_LOD0/MeshResourceRef>
+            uniform bool meshInstance:receiveDecal = 1
+            bool physics:kinematicEnabled = 1
+            uniform token purpose = "Default"
+            bool renderInfoFlags:GPUInstancing = 0
+            int renderInfoFlags:layer = 0
+            bool renderInfoFlags:Occulder = 0
+            bool renderInfoFlags:staticBatching = 0
+            bool responseContact = 1
+            string[] scriptHelperComponent:m_lightLuaObjGuids = []
+            string sObjectDataComponent:m_className = "cMeshObject"
+            string sObjectDataComponent:m_guid = "b61264b9-233d-fb20-ab8a-5288432ac702"
+            bool sObjectDataComponent:m_networking = 0
+            bool sObjectDataComponent:m_onlyInSpawningClient = 0
+            uniform token sObjectDataComponent:m_spawnCondition = "kAnyWhere"
+            matrix4d xformOp:transform = ( (1, 0, 0, 0), (0, 1, -1.1920928955078125e-7, 0), (0, 1.1920928955078125e-7, 1, 0), (0, 0, 0, 1) )
+            uniform token[] xformOpOrder = ["xformOp:transform"]
+
+            def "MeshResourceRef" (
+                prepend references = @./_59ec68e921d0f572a18a5288432ac702.archetype.resources.usda@</_d0da4b5b3dc8dd6db3d62bc23c1587d8>
+            )
+            {
+            }
+
+            def "Material" (
+                prepend references = @_59ec68e921d0f572a18a5288432ac702.archetype.material.usda@</Material_d4cf0f95f7332204e81d46556321ebf7>
+            )
+            {
+            }
+        }
+
+        def Xform "Collision01" (
+            prepend apiSchemas = ["sObjectDataComponentAPI", "RenderInfoFlagsAPI", "RigidbodyAPI", "PhysicsRigidBodyAPI", "ScriptHelperComponentAPI"]
+        )
+        {
+            int collisionGroup = 1
+            bool enableGravity = 1
+            uniform token meshColliderComplexity = "kCustom"
+            bool physics:kinematicEnabled = 1
+            uniform token purpose = "Default"
+            bool renderInfoFlags:GPUInstancing = 0
+            int renderInfoFlags:layer = 0
+            bool renderInfoFlags:Occulder = 0
+            bool renderInfoFlags:staticBatching = 0
+            bool responseContact = 1
+            string[] scriptHelperComponent:m_lightLuaObjGuids = []
+            string sObjectDataComponent:m_className = "cMeshObject"
+            string sObjectDataComponent:m_guid = "ca2b22fb-a53c-f37f-ab8a-5288432ac702"
+            bool sObjectDataComponent:m_networking = 0
+            bool sObjectDataComponent:m_onlyInSpawningClient = 0
+            uniform token sObjectDataComponent:m_spawnCondition = "kAnyWhere"
+            matrix4d xformOp:transform = ( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (0, 0, 0, 1) )
+            uniform token[] xformOpOrder = ["xformOp:transform"]
+
+            def Cube "__Box__0" (
+                prepend apiSchemas = ["PhysicsCollisionAPI"]
+            )
+            {
+                float3[] extent = [(-0.5, -0.5, -0.5), (0.5, 0.5, 0.5)]
+                uniform token purpose = "Guide"
+                double size = 1
+                matrix4d xformOp:transform = ( (0.8799999952316284, 0, 0, 0), (0, 1.2400000095367432, 0, 0), (0, 0, 2.819999933242798, 0), (0, 0.6200000047683716, 0, 1) )
+                uniform token[] xformOpOrder = ["xformOp:transform"]
+            }
+        }
+    }
+}
+

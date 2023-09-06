@@ -1,0 +1,72 @@
+#usda 1.0
+(
+    defaultPrim = "_215ae5c97d9fb79eadcee0c88ec715d8"
+    endTimeCode = 0
+    startTimeCode = 0
+    upAxis = "Y"
+)
+
+def Scope "_215ae5c97d9fb79eadcee0c88ec715d8" (
+    prepend apiSchemas = ["ArchetypeAssetAPI"]
+)
+{
+    uniform string archetypeAsset:resourceListFilepath = "./_215ae5c97d9fb79eadcee0c88ec715d8.archetype.resources.usda"
+    uniform string assetBase:assetName = "Cube"
+    uniform token assetBase:assetType = "archetypeStream"
+    uniform string assetId:guid = "215ae5c9-7d9f-b79e-adce-e0c88ec715d8"
+    uniform token purpose = "Default"
+
+    def Xform "Cube" (
+        prepend apiSchemas = ["MeshInstanceAPI", "sObjectDataComponentAPI", "LodControlAPI", "RenderInfoFlagsAPI", "RigidbodyAPI", "PhysicsRigidBodyAPI", "MaterialAPI", "ScriptHelperComponentAPI"]
+    )
+    {
+        int collisionGroup = 1
+        bool enableGravity = 1
+        uniform bool lodControl:enableLod = 0
+        uniform float[] lodControl:LodRangeScreenSizes = [0.01]
+        rel material:materialParamSet = </_215ae5c97d9fb79eadcee0c88ec715d8/Cube/Material>
+        uniform token meshColliderComplexity = "kCustom"
+        uniform bool meshInstance:castShadow = 1
+        rel meshInstance:mesh = </_215ae5c97d9fb79eadcee0c88ec715d8/Cube/MeshResourceRef>
+        uniform bool meshInstance:receiveDecal = 1
+        bool physics:kinematicEnabled = 1
+        uniform token purpose = "Default"
+        bool renderInfoFlags:GPUInstancing = 0
+        int renderInfoFlags:layer = 0
+        bool renderInfoFlags:Occulder = 0
+        bool renderInfoFlags:staticBatching = 0
+        bool responseContact = 1
+        string[] scriptHelperComponent:m_lightLuaObjGuids = []
+        string sObjectDataComponent:m_className = "cMeshObject"
+        string sObjectDataComponent:m_guid = "215ae5c9-7d9f-b79e-adce-e0c88ec715d8"
+        bool sObjectDataComponent:m_networking = 0
+        bool sObjectDataComponent:m_onlyInSpawningClient = 0
+        uniform token sObjectDataComponent:m_spawnCondition = "kAnyWhere"
+        matrix4d xformOp:transform = ( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (2, 2, -2, 1) )
+        uniform token[] xformOpOrder = ["xformOp:transform"]
+
+        def "MeshResourceRef" (
+            prepend references = @./_215ae5c97d9fb79eadcee0c88ec715d8.archetype.resources.usda@</_7c0715414d8c1147e0c77297552ddec6>
+        )
+        {
+        }
+
+        def Cube "__Box__0" (
+            prepend apiSchemas = ["PhysicsCollisionAPI"]
+        )
+        {
+            float3[] extent = [(-0.5, -0.5, -0.5), (0.5, 0.5, 0.5)]
+            uniform token purpose = "Guide"
+            double size = 1
+            matrix4d xformOp:transform = ( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (0, 0, 0, 1) )
+            uniform token[] xformOpOrder = ["xformOp:transform"]
+        }
+
+        def "Material" (
+            prepend references = @_215ae5c97d9fb79eadcee0c88ec715d8.archetype.material.usda@</Material_31321ba15b8f8eb4c954353edc038b1d>
+        )
+        {
+        }
+    }
+}
+
